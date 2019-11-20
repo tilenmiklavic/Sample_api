@@ -1,0 +1,4966 @@
+﻿{
+    "Postaje": [
+        {
+            "Stara\r\nštevilka": "364",
+            "Nova številka": "103111",
+            "Ime postajališča": "7. septembra",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "365",
+            "Nova številka": "103112",
+            "Ime postajališča": "7. septembra"
+        },
+        {
+            "Stara\r\nštevilka": "717",
+            "Nova številka": "505132",
+            "Ime postajališča": "Adamičev spomenik",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "492",
+            "Nova številka": "600022",
+            "Ime postajališča": "Ajdovščina"
+        },
+        {
+            "Stara\r\nštevilka": "104",
+            "Nova številka": "503031",
+            "Ime postajališča": "Akademija",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "105",
+            "Nova številka": "503032",
+            "Ime postajališča": "Akademija"
+        },
+        {
+            "Stara\r\nštevilka": "133",
+            "Nova številka": "502013",
+            "Ime postajališča": "Ambrožev trg",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "134",
+            "Nova številka": "502014",
+            "Ime postajališča": "Ambrožev trg"
+        },
+        {
+            "Stara\r\nštevilka": "164",
+            "Nova številka": "103031",
+            "Ime postajališča": "AMZS",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "165",
+            "Nova številka": "103032",
+            "Ime postajališča": "AMZS"
+        },
+        {
+            "Stara\r\nštevilka": "184",
+            "Nova številka": "804171",
+            "Ime postajališča": "Andreja Bitenca",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "185",
+            "Nova številka": "804172",
+            "Ime postajališča": "Andreja Bitenca"
+        },
+        {
+            "Stara\r\nštevilka": "878",
+            "Nova številka": "300013",
+            "Ime postajališča": "AP Ljubljana"
+        },
+        {
+            "Stara\r\nštevilka": "275",
+            "Nova številka": "303061",
+            "Ime postajališča": "Archinetova",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "276",
+            "Nova številka": "303062",
+            "Ime postajališča": "Archinetova"
+        },
+        {
+            "Stara\r\nštevilka": "170",
+            "Nova številka": "101051",
+            "Ime postajališča": "Astra",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "171",
+            "Nova številka": "101052",
+            "Ime postajališča": "Astra"
+        },
+        {
+            "Stara\r\nštevilka": "30",
+            "Nova številka": "602052",
+            "Ime postajališča": "Aškerčeva"
+        },
+        {
+            "Stara\r\nštevilka": "31",
+            "Nova številka": "602051",
+            "Ime postajališča": "Aškerčeva",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "14",
+            "Nova številka": "803021",
+            "Ime postajališča": "Avtomontaža",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "15",
+            "Nova številka": "803022",
+            "Ime postajališča": "Avtomontaža"
+        },
+        {
+            "Stara\r\nštevilka": "733",
+            "Nova številka": "604022",
+            "Ime postajališča": "Barje"
+        },
+        {
+            "Stara\r\nštevilka": "734",
+            "Nova številka": "604023",
+            "Ime postajališča": "Barje",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "59",
+            "Nova številka": "600011",
+            "Ime postajališča": "Bavarski dvor (Korabar)"
+        },
+        {
+            "Stara\r\nštevilka": "58",
+            "Nova številka": "600012",
+            "Ime postajališča": "Bavarski dvor (Kozolec)"
+        },
+        {
+            "Stara\r\nštevilka": "927",
+            "Nova številka": "725092",
+            "Ime postajališča": "Belica"
+        },
+        {
+            "Stara\r\nštevilka": "928",
+            "Nova številka": "725091",
+            "Ime postajališča": "Belica",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "447",
+            "Nova številka": "204141",
+            "Ime postajališča": "Belinka",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "448",
+            "Nova številka": "204142",
+            "Ime postajališča": "Belinka"
+        },
+        {
+            "Stara\r\nštevilka": "453",
+            "Nova številka": "204171",
+            "Ime postajališča": "Beričevo",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "589",
+            "Nova številka": "405051",
+            "Ime postajališča": "Besnica ambulanta",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "590",
+            "Nova številka": "405052",
+            "Ime postajališča": "Besnica ambulanta"
+        },
+        {
+            "Stara\r\nštevilka": "593",
+            "Nova številka": "405061",
+            "Ime postajališča": "Besnica kamnolom",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "594",
+            "Nova številka": "405062",
+            "Ime postajališča": "Besnica kamnolom"
+        },
+        {
+            "Stara\r\nštevilka": "583",
+            "Nova številka": "405021",
+            "Ime postajališča": "Besnica/Lj.",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "584",
+            "Nova številka": "405022",
+            "Ime postajališča": "Besnica/Lj."
+        },
+        {
+            "Stara\r\nštevilka": "585",
+            "Nova številka": "405031",
+            "Ime postajališča": "Besnica/Lj.Š.",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "586",
+            "Nova številka": "405032",
+            "Ime postajališča": "Besnica/Lj.Š."
+        },
+        {
+            "Stara\r\nštevilka": "198",
+            "Nova številka": "101031",
+            "Ime postajališča": "Bežigrad",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "199",
+            "Nova številka": "101032",
+            "Ime postajališča": "Bežigrad"
+        },
+        {
+            "Stara\r\nštevilka": "531",
+            "Nova številka": "403072",
+            "Ime postajališča": "Bilečanska"
+        },
+        {
+            "Stara\r\nštevilka": "532",
+            "Nova številka": "403071",
+            "Ime postajališča": "Bilečanska",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "537",
+            "Nova številka": "404121",
+            "Ime postajališča": "Bizovik"
+        },
+        {
+            "Stara\r\nštevilka": "538",
+            "Nova številka": "404123",
+            "Ime postajališča": "Bizovik",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "587",
+            "Nova številka": "405041",
+            "Ime postajališča": "Blaževo",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "588",
+            "Nova številka": "405042",
+            "Ime postajališča": "Blaževo"
+        },
+        {
+            "Stara\r\nštevilka": "882",
+            "Nova številka": "504121",
+            "Ime postajališča": "Bobrova",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "883",
+            "Nova številka": "504122",
+            "Ime postajališča": "Bobrova"
+        },
+        {
+            "Stara\r\nštevilka": "501",
+            "Nova številka": "704041",
+            "Ime postajališča": "Bokalce",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "69",
+            "Nova številka": "402041",
+            "Ime postajališča": "Bolnica",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "70",
+            "Nova številka": "402042",
+            "Ime postajališča": "Bolnica"
+        },
+        {
+            "Stara\r\nštevilka": "194",
+            "Nova številka": "802041",
+            "Ime postajališča": "Bolnica P. Držaja",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "195",
+            "Nova številka": "802042",
+            "Ime postajališča": "Bolnica P. Držaja"
+        },
+        {
+            "Stara\r\nštevilka": "180",
+            "Nova številka": "703102",
+            "Ime postajališča": "Bonifacija"
+        },
+        {
+            "Stara\r\nštevilka": "181",
+            "Nova številka": "703101",
+            "Ime postajališča": "Bonifacija",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "692",
+            "Nova številka": "103191",
+            "Ime postajališča": "Božičeva",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "693",
+            "Nova številka": "103192",
+            "Ime postajališča": "Božičeva"
+        },
+        {
+            "Stara\r\nštevilka": "205",
+            "Nova številka": "203181",
+            "Ime postajališča": "Bratislavska",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "206",
+            "Nova številka": "203182",
+            "Ime postajališča": "Bratislavska"
+        },
+        {
+            "Stara\r\nštevilka": "457",
+            "Nova številka": "803161",
+            "Ime postajališča": "Bratov Babnik",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "458",
+            "Nova številka": "803162",
+            "Ime postajališča": "Bratov Babnik"
+        },
+        {
+            "Stara\r\nštevilka": "122",
+            "Nova številka": "803132",
+            "Ime postajališča": "Bratov Učakar"
+        },
+        {
+            "Stara\r\nštevilka": "123",
+            "Nova številka": "803131",
+            "Ime postajališča": "Bratov Učakar",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "352",
+            "Nova številka": "101061",
+            "Ime postajališča": "Bratov Židan",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "353",
+            "Nova številka": "101062",
+            "Ime postajališča": "Bratov Židan"
+        },
+        {
+            "Stara\r\nštevilka": "328",
+            "Nova številka": "704022",
+            "Ime postajališča": "Brdo"
+        },
+        {
+            "Stara\r\nštevilka": "329",
+            "Nova številka": "704021",
+            "Ime postajališča": "Brdo",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "502",
+            "Nova številka": "704024",
+            "Ime postajališča": "Brdo"
+        },
+        {
+            "Stara\r\nštevilka": "985",
+            "Nova številka": "715112",
+            "Ime postajališča": "Brezje pri Dobrovi"
+        },
+        {
+            "Stara\r\nštevilka": "986",
+            "Nova številka": "715111",
+            "Ime postajališča": "Brezje pri Dobrovi",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "983",
+            "Nova številka": "715102",
+            "Ime postajališča": "Brezje pri Dobrovi And."
+        },
+        {
+            "Stara\r\nštevilka": "984",
+            "Nova številka": "715101",
+            "Ime postajališča": "Brezje pri Dobrovi And.",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "556",
+            "Nova številka": "614022",
+            "Ime postajališča": "Brglezov štradon"
+        },
+        {
+            "Stara\r\nštevilka": "557",
+            "Nova številka": "614021",
+            "Ime postajališča": "Brglezov štradon",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "358",
+            "Nova številka": "103021",
+            "Ime postajališča": "Brinje",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "359",
+            "Nova številka": "103022",
+            "Ime postajališča": "Brinje"
+        },
+        {
+            "Stara\r\nštevilka": "953",
+            "Nova številka": "726022",
+            "Ime postajališča": "Briše pri Polh.G."
+        },
+        {
+            "Stara\r\nštevilka": "954",
+            "Nova številka": "726021",
+            "Ime postajališča": "Briše pri Polh.G.",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "955",
+            "Nova številka": "726032",
+            "Ime postajališča": "Briše pri Polh.G.Koroš."
+        },
+        {
+            "Stara\r\nštevilka": "956",
+            "Nova številka": "726031",
+            "Ime postajališča": "Briše pri Polh.G.Koroš.",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "957",
+            "Nova številka": "726042",
+            "Ime postajališča": "Briše pri Polh.G.M.Voda"
+        },
+        {
+            "Stara\r\nštevilka": "958",
+            "Nova številka": "726041",
+            "Ime postajališča": "Briše pri Polh.G.M.Voda",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "429",
+            "Nova številka": "204121",
+            "Ime postajališča": "Brnčičeva",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "216",
+            "Nova številka": "804121",
+            "Ime postajališča": "Brod",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "771",
+            "Nova številka": "804122",
+            "Ime postajališča": "Brod"
+        },
+        {
+            "Stara\r\nštevilka": "257",
+            "Nova številka": "303071",
+            "Ime postajališča": "Brodarjev trg",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "258",
+            "Nova številka": "303072",
+            "Ime postajališča": "Brodarjev trg"
+        },
+        {
+            "Stara\r\nštevilka": "711",
+            "Nova številka": "505092",
+            "Ime postajališča": "Brvace"
+        },
+        {
+            "Stara\r\nštevilka": "712",
+            "Nova številka": "505091",
+            "Ime postajališča": "Brvace",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "470",
+            "Nova številka": "203142",
+            "Ime postajališča": "BTC-Emporium"
+        },
+        {
+            "Stara\r\nštevilka": "471",
+            "Nova številka": "203141",
+            "Ime postajališča": "BTC-Emporium",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "472",
+            "Nova številka": "203132",
+            "Ime postajališča": "BTC-Kolosej"
+        },
+        {
+            "Stara\r\nštevilka": "473",
+            "Nova številka": "203131",
+            "Ime postajališča": "BTC-Kolosej",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "468",
+            "Nova številka": "203122",
+            "Ime postajališča": "BTC-tržnica"
+        },
+        {
+            "Stara\r\nštevilka": "469",
+            "Nova številka": "203121",
+            "Ime postajališča": "BTC-tržnica",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "466",
+            "Nova številka": "203112",
+            "Ime postajališča": "BTC-uprava"
+        },
+        {
+            "Stara\r\nštevilka": "467",
+            "Nova številka": "203111",
+            "Ime postajališča": "BTC-uprava",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "851",
+            "Nova številka": "826032",
+            "Ime postajališča": "Bukovica Anzel"
+        },
+        {
+            "Stara\r\nštevilka": "852",
+            "Nova številka": "826031",
+            "Ime postajališča": "Bukovica Anzel",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "849",
+            "Nova številka": "826022",
+            "Ime postajališča": "Bukovica Plevevc"
+        },
+        {
+            "Stara\r\nštevilka": "850",
+            "Nova številka": "826021",
+            "Ime postajališča": "Bukovica Plevevc",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "963",
+            "Nova številka": "726072",
+            "Ime postajališča": "Butajnova",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "964",
+            "Nova številka": "726071",
+            "Ime postajališča": "Butajnova",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "961",
+            "Nova številka": "726062",
+            "Ime postajališča": "Butajnova Čamernik"
+        },
+        {
+            "Stara\r\nštevilka": "962",
+            "Nova številka": "726061",
+            "Ime postajališča": "Butajnova Čamernik",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "959",
+            "Nova številka": "726052",
+            "Ime postajališča": "Butajnova Setnik"
+        },
+        {
+            "Stara\r\nštevilka": "960",
+            "Nova številka": "726051",
+            "Ime postajališča": "Butajnova Setnik",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "346",
+            "Nova številka": "602012",
+            "Ime postajališča": "Cankarjev dom"
+        },
+        {
+            "Stara\r\nštevilka": "347",
+            "Nova številka": "602011",
+            "Ime postajališča": "Cankarjev dom",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "560",
+            "Nova številka": "614042",
+            "Ime postajališča": "Capuder"
+        },
+        {
+            "Stara\r\nštevilka": "561",
+            "Nova številka": "614041",
+            "Ime postajališča": "Capuder",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "689",
+            "Nova številka": "103173",
+            "Ime postajališča": "Center Stožice",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "432",
+            "Nova številka": "104091",
+            "Ime postajališča": "Cesta na Brod",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "433",
+            "Nova številka": "104092",
+            "Ime postajališča": "Cesta na Brod"
+        },
+        {
+            "Stara\r\nštevilka": "281",
+            "Nova številka": "304091",
+            "Ime postajališča": "Cesta na Vevče",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "282",
+            "Nova številka": "304092",
+            "Ime postajališča": "Cesta na Vevče"
+        },
+        {
+            "Stara\r\nštevilka": "312",
+            "Nova številka": "404021",
+            "Ime postajališča": "Cesta v Bizovik",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "313",
+            "Nova številka": "404022",
+            "Ime postajališča": "Cesta v Bizovik"
+        },
+        {
+            "Stara\r\nštevilka": "322",
+            "Nova številka": "404071",
+            "Ime postajališča": "Cesta v Zavoglje",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "323",
+            "Nova številka": "404072",
+            "Ime postajališča": "Cesta v Zavoglje"
+        },
+        {
+            "Stara\r\nštevilka": "338",
+            "Nova številka": "703022",
+            "Ime postajališča": "Cesta XV"
+        },
+        {
+            "Stara\r\nštevilka": "339",
+            "Nova številka": "703021",
+            "Ime postajališča": "Cesta XV",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "263",
+            "Nova številka": "304042",
+            "Ime postajališča": "Chengdujska"
+        },
+        {
+            "Stara\r\nštevilka": "279",
+            "Nova številka": "304041",
+            "Ime postajališča": "Chengdujska",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "709",
+            "Nova številka": "505082",
+            "Ime postajališča": "Cikava"
+        },
+        {
+            "Stara\r\nštevilka": "710",
+            "Nova številka": "505081",
+            "Ime postajališča": "Cikava",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "188",
+            "Nova številka": "803111",
+            "Ime postajališča": "Čebelarska",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "189",
+            "Nova številka": "803112",
+            "Ime postajališča": "Čebelarska"
+        },
+        {
+            "Stara\r\nštevilka": "366",
+            "Nova številka": "103121",
+            "Ime postajališča": "Čerinova",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "367",
+            "Nova številka": "103122",
+            "Ime postajališča": "Čerinova"
+        },
+        {
+            "Stara\r\nštevilka": "952",
+            "Nova številka": "737041",
+            "Ime postajališča": "Črni Vrh",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "949",
+            "Nova številka": "737032",
+            "Ime postajališča": "Črni Vrh nad Vrhovci"
+        },
+        {
+            "Stara\r\nštevilka": "950",
+            "Nova številka": "737031",
+            "Ime postajališča": "Črni Vrh nad Vrhovci",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "148",
+            "Nova številka": "104161",
+            "Ime postajališča": "Črnuče",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "931",
+            "Nova številka": "725112",
+            "Ime postajališča": "D.vas pri Polh.G."
+        },
+        {
+            "Stara\r\nštevilka": "932",
+            "Nova številka": "725111",
+            "Ime postajališča": "D.vas pri Polh.G.",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "493",
+            "Nova številka": "600032",
+            "Ime postajališča": "Dalmatinova"
+        },
+        {
+            "Stara\r\nštevilka": "911",
+            "Nova številka": "725012",
+            "Ime postajališča": "Dobrova"
+        },
+        {
+            "Stara\r\nštevilka": "912",
+            "Nova številka": "725011",
+            "Ime postajališča": "Dobrova",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "1001",
+            "Nova številka": "725014",
+            "Ime postajališča": "Dobrova"
+        },
+        {
+            "Stara\r\nštevilka": "1002",
+            "Nova številka": "725013",
+            "Ime postajališča": "Dobrova",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "975",
+            "Nova številka": "715062",
+            "Ime postajališča": "Dobrova graben"
+        },
+        {
+            "Stara\r\nštevilka": "976",
+            "Nova številka": "715061",
+            "Ime postajališča": "Dobrova graben",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "979",
+            "Nova številka": "715082",
+            "Ime postajališča": "Dobrova Maček"
+        },
+        {
+            "Stara\r\nštevilka": "980",
+            "Nova številka": "715081",
+            "Ime postajališča": "Dobrova Maček",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "981",
+            "Nova številka": "715092",
+            "Ime postajališča": "Dobrova Skodlar"
+        },
+        {
+            "Stara\r\nštevilka": "982",
+            "Nova številka": "715091",
+            "Ime postajališča": "Dobrova Skodlar",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "977",
+            "Nova številka": "715072",
+            "Ime postajališča": "Dobrova vodomet"
+        },
+        {
+            "Stara\r\nštevilka": "978",
+            "Nova številka": "715071",
+            "Ime postajališča": "Dobrova vodomet",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "314",
+            "Nova številka": "404031",
+            "Ime postajališča": "Dobrunje",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "315",
+            "Nova številka": "404032",
+            "Ime postajališča": "Dobrunje"
+        },
+        {
+            "Stara\r\nštevilka": "612",
+            "Nova številka": "404142",
+            "Ime postajališča": "Dobrunje pod Urhom"
+        },
+        {
+            "Stara\r\nštevilka": "613",
+            "Nova številka": "404141",
+            "Ime postajališča": "Dobrunje pod Urhom",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "841",
+            "Nova številka": "825072",
+            "Ime postajališča": "Dobruša lipa"
+        },
+        {
+            "Stara\r\nštevilka": "842",
+            "Nova številka": "825071",
+            "Ime postajališča": "Dobruša lipa",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "474",
+            "Nova številka": "703112",
+            "Ime postajališča": "Dolgi most"
+        },
+        {
+            "Stara\r\nštevilka": "475",
+            "Nova številka": "703111",
+            "Ime postajališča": "Dolgi most",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "182",
+            "Nova številka": "704011",
+            "Ime postajališča": "Dolgi most - obračališče",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "524",
+            "Nova številka": "704012",
+            "Ime postajališča": "Dolgi most - obračališče izstop"
+        },
+        {
+            "Stara\r\nštevilka": "526",
+            "Nova številka": "704052",
+            "Ime postajališča": "Dolgi most Rotar"
+        },
+        {
+            "Stara\r\nštevilka": "527",
+            "Nova številka": "704051",
+            "Ime postajališča": "Dolgi most Rotar",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "875",
+            "Nova številka": "505192",
+            "Ime postajališča": "Dom obrtnikov",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "873",
+            "Nova številka": "505182",
+            "Ime postajališča": "Dom starejših",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "558",
+            "Nova številka": "614032",
+            "Ime postajališča": "Dornig"
+        },
+        {
+            "Stara\r\nštevilka": "559",
+            "Nova številka": "614031",
+            "Ime postajališča": "Dornig",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "28",
+            "Nova številka": "602022",
+            "Ime postajališča": "Drama"
+        },
+        {
+            "Stara\r\nštevilka": "29",
+            "Nova številka": "602021",
+            "Ime postajališča": "Drama",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "118",
+            "Nova številka": "803152",
+            "Ime postajališča": "Draveljska gmajna"
+        },
+        {
+            "Stara\r\nštevilka": "119",
+            "Nova številka": "803151",
+            "Ime postajališča": "Draveljska gmajna",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "10",
+            "Nova številka": "803041",
+            "Ime postajališča": "Dravlje",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "11",
+            "Nova številka": "803042",
+            "Ime postajališča": "Dravlje"
+        },
+        {
+            "Stara\r\nštevilka": "973",
+            "Nova številka": "715012",
+            "Ime postajališča": "Draževnik"
+        },
+        {
+            "Stara\r\nštevilka": "974",
+            "Nova številka": "715011",
+            "Ime postajališča": "Draževnik",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "404",
+            "Nova številka": "802051",
+            "Ime postajališča": "Drenikova",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "459",
+            "Nova številka": "802052",
+            "Ime postajališča": "Drenikova",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "780",
+            "Nova številka": "804352",
+            "Ime postajališča": "Dvor"
+        },
+        {
+            "Stara\r\nštevilka": "781",
+            "Nova številka": "804351",
+            "Ime postajališča": "Dvor",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "929",
+            "Nova številka": "725102",
+            "Ime postajališča": "Dvor pri Polh.G."
+        },
+        {
+            "Stara\r\nštevilka": "930",
+            "Nova številka": "725101",
+            "Ime postajališča": "Dvor pri Polh.G.",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "438",
+            "Nova številka": "104061",
+            "Ime postajališča": "Elma",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "439",
+            "Nova številka": "104062",
+            "Ime postajališča": "Elma"
+        },
+        {
+            "Stara\r\nštevilka": "145",
+            "Nova številka": "403051",
+            "Ime postajališča": "Emona",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "146",
+            "Nova številka": "403052",
+            "Ime postajališča": "Emona"
+        },
+        {
+            "Stara\r\nštevilka": "751",
+            "Nova številka": "745022",
+            "Ime postajališča": "Erbežnik"
+        },
+        {
+            "Stara\r\nštevilka": "752",
+            "Nova številka": "745021",
+            "Ime postajališča": "Erbežnik",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "545",
+            "Nova številka": "202082",
+            "Ime postajališča": "Flajšmanova"
+        },
+        {
+            "Stara\r\nštevilka": "54",
+            "Nova številka": "301011",
+            "Ime postajališča": "Friškovec",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "55",
+            "Nova številka": "301012",
+            "Ime postajališča": "Friškovec"
+        },
+        {
+            "Stara\r\nštevilka": "396",
+            "Nova številka": "304051",
+            "Ime postajališča": "Fužine",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "917",
+            "Nova številka": "725042",
+            "Ime postajališča": "Gaberje pri Dob.Brvičar"
+        },
+        {
+            "Stara\r\nštevilka": "918",
+            "Nova številka": "725041",
+            "Ime postajališča": "Gaberje pri Dob.Brvičar",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "915",
+            "Nova številka": "725032",
+            "Ime postajališča": "Gaberje pri Dobrovi"
+        },
+        {
+            "Stara\r\nštevilka": "916",
+            "Nova številka": "725031",
+            "Ime postajališča": "Gaberje pri Dobrovi",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "506",
+            "Nova številka": "603093",
+            "Ime postajališča": "Galjevica",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "507",
+            "Nova številka": "603094",
+            "Ime postajališča": "Galjevica"
+        },
+        {
+            "Stara\r\nštevilka": "392",
+            "Nova številka": "104221",
+            "Ime postajališča": "Gameljne",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "426",
+            "Nova številka": "102031",
+            "Ime postajališča": "Gasilska brigada",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "427",
+            "Nova številka": "102032",
+            "Ime postajališča": "Gasilska brigada"
+        },
+        {
+            "Stara\r\nštevilka": "38",
+            "Nova številka": "603022",
+            "Ime postajališča": "Gerbičeva"
+        },
+        {
+            "Stara\r\nštevilka": "39",
+            "Nova številka": "603021",
+            "Ime postajališča": "Gerbičeva",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "176",
+            "Nova številka": "703082",
+            "Ime postajališča": "Glince"
+        },
+        {
+            "Stara\r\nštevilka": "177",
+            "Nova številka": "703081",
+            "Ime postajališča": "Glince",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "137",
+            "Nova številka": "402051",
+            "Ime postajališča": "Glonarjeva",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "138",
+            "Nova številka": "402052",
+            "Ime postajališča": "Glonarjeva"
+        },
+        {
+            "Stara\r\nštevilka": "901",
+            "Nova številka": "714022",
+            "Ime postajališča": "Gmajna"
+        },
+        {
+            "Stara\r\nštevilka": "902",
+            "Nova številka": "714021",
+            "Ime postajališča": "Gmajna",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "880",
+            "Nova številka": "603151",
+            "Ime postajališča": "Goluhova",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "881",
+            "Nova številka": "603152",
+            "Ime postajališča": "Goluhova"
+        },
+        {
+            "Stara\r\nštevilka": "362",
+            "Nova številka": "103091",
+            "Ime postajališča": "Gorjančeva",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "363",
+            "Nova številka": "103092",
+            "Ime postajališča": "Gorjančeva"
+        },
+        {
+            "Stara\r\nštevilka": "135",
+            "Nova številka": "402061",
+            "Ime postajališča": "Gornje Poljane",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "136",
+            "Nova številka": "402062",
+            "Ime postajališča": "Gornje Poljane"
+        },
+        {
+            "Stara\r\nštevilka": "108",
+            "Nova številka": "504011",
+            "Ime postajališča": "Gornji Rudnik",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "109",
+            "Nova številka": "504012",
+            "Ime postajališča": "Gornji Rudnik"
+        },
+        {
+            "Stara\r\nštevilka": "96",
+            "Nova številka": "602101",
+            "Ime postajališča": "Gornji trg",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "97",
+            "Nova številka": "602102",
+            "Ime postajališča": "Gornji trg"
+        },
+        {
+            "Stara\r\nštevilka": "764",
+            "Nova številka": "815102",
+            "Ime postajališča": "Gostilna Kovač"
+        },
+        {
+            "Stara\r\nštevilka": "765",
+            "Nova številka": "815101",
+            "Ime postajališča": "Gostilna Kovač",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "732",
+            "Nova številka": "505141",
+            "Ime postajališča": "Grosuplje",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "209",
+            "Nova številka": "204021",
+            "Ime postajališča": "GZL",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "210",
+            "Nova številka": "204022",
+            "Ime postajališča": "GZL"
+        },
+        {
+            "Stara\r\nštevilka": "34",
+            "Nova številka": "602032",
+            "Ime postajališča": "Hajdrihova"
+        },
+        {
+            "Stara\r\nštevilka": "35",
+            "Nova številka": "602031",
+            "Ime postajališča": "Hajdrihova",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "737",
+            "Nova številka": "604042",
+            "Ime postajališča": "Havptmance"
+        },
+        {
+            "Stara\r\nštevilka": "738",
+            "Nova številka": "604041",
+            "Ime postajališča": "Havptmance",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "745",
+            "Nova številka": "603131",
+            "Ime postajališča": "Hladnikova",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "746",
+            "Nova številka": "603132",
+            "Ime postajališča": "Hladnikova"
+        },
+        {
+            "Stara\r\nštevilka": "991",
+            "Nova številka": "716012",
+            "Ime postajališča": "Horjul"
+        },
+        {
+            "Stara\r\nštevilka": "992",
+            "Nova številka": "716011",
+            "Ime postajališča": "Horjul",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "25",
+            "Nova številka": "700012",
+            "Ime postajališča": "Hotel Lev"
+        },
+        {
+            "Stara\r\nštevilka": "348",
+            "Nova številka": "101011",
+            "Ime postajališča": "Hranilniška",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "349",
+            "Nova številka": "101012",
+            "Ime postajališča": "Hranilniška"
+        },
+        {
+            "Stara\r\nštevilka": "923",
+            "Nova številka": "725072",
+            "Ime postajališča": "Hrastenice"
+        },
+        {
+            "Stara\r\nštevilka": "924",
+            "Nova številka": "725071",
+            "Ime postajališča": "Hrastenice",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "295",
+            "Nova številka": "204061",
+            "Ime postajališča": "Hrastje",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "296",
+            "Nova številka": "204062",
+            "Ime postajališča": "Hrastje"
+        },
+        {
+            "Stara\r\nštevilka": "817",
+            "Nova številka": "816012",
+            "Ime postajališča": "Hraše center"
+        },
+        {
+            "Stara\r\nštevilka": "818",
+            "Nova številka": "816011",
+            "Ime postajališča": "Hraše center",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "876",
+            "Nova številka": "816021",
+            "Ime postajališča": "Hraše vzhod",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "877",
+            "Nova številka": "816022",
+            "Ime postajališča": "Hraše vzhod"
+        },
+        {
+            "Stara\r\nštevilka": "815",
+            "Nova številka": "815131",
+            "Ime postajališča": "Hraše zahod",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "816",
+            "Nova številka": "815132",
+            "Ime postajališča": "Hraše zahod"
+        },
+        {
+            "Stara\r\nštevilka": "919",
+            "Nova številka": "725052",
+            "Ime postajališča": "Hruševo"
+        },
+        {
+            "Stara\r\nštevilka": "920",
+            "Nova številka": "725051",
+            "Ime postajališča": "Hruševo",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "535",
+            "Nova številka": "404112",
+            "Ime postajališča": "Hruševska"
+        },
+        {
+            "Stara\r\nštevilka": "536",
+            "Nova številka": "404111",
+            "Ime postajališča": "Hruševska",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "310",
+            "Nova številka": "404011",
+            "Ime postajališča": "Hrušica",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "311",
+            "Nova številka": "404012",
+            "Ime postajališča": "Hrušica"
+        },
+        {
+            "Stara\r\nštevilka": "131",
+            "Nova številka": "402011",
+            "Ime postajališča": "Hrvatski trg",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "132",
+            "Nova številka": "402012",
+            "Ime postajališča": "Hrvatski trg"
+        },
+        {
+            "Stara\r\nštevilka": "743",
+            "Nova številka": "625022",
+            "Ime postajališča": "Ig"
+        },
+        {
+            "Stara\r\nštevilka": "744",
+            "Nova številka": "625021",
+            "Ime postajališča": "Ig",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "741",
+            "Nova številka": "605012",
+            "Ime postajališča": "Ig AP"
+        },
+        {
+            "Stara\r\nštevilka": "742",
+            "Nova številka": "605011",
+            "Ime postajališča": "Ig AP",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "739",
+            "Nova številka": "605082",
+            "Ime postajališča": "Ig Petrol"
+        },
+        {
+            "Stara\r\nštevilka": "740",
+            "Nova številka": "605081",
+            "Ime postajališča": "Ig Petrol",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "129",
+            "Nova številka": "501011",
+            "Ime postajališča": "Ilirska",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "130",
+            "Nova številka": "501012",
+            "Ime postajališča": "Ilirska"
+        },
+        {
+            "Stara\r\nštevilka": "414",
+            "Nova številka": "603102",
+            "Ime postajališča": "Ilovica"
+        },
+        {
+            "Stara\r\nštevilka": "415",
+            "Nova številka": "603101",
+            "Ime postajališča": "Ilovica",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "226",
+            "Nova številka": "804161",
+            "Ime postajališča": "IMP",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "227",
+            "Nova številka": "804162",
+            "Ime postajališča": "IMP"
+        },
+        {
+            "Stara\r\nštevilka": "790",
+            "Nova številka": "625052",
+            "Ime postajališča": "Iška vas"
+        },
+        {
+            "Stara\r\nštevilka": "791",
+            "Nova številka": "625051",
+            "Ime postajališča": "Iška vas",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "793",
+            "Nova številka": "626011",
+            "Ime postajališča": "Iška vas obračališče",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "788",
+            "Nova številka": "625061",
+            "Ime postajališča": "Iška vas šola",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "789",
+            "Nova številka": "625062",
+            "Ime postajališča": "Iška vas šola"
+        },
+        {
+            "Stara\r\nštevilka": "418",
+            "Nova številka": "604012",
+            "Ime postajališča": "Iški most"
+        },
+        {
+            "Stara\r\nštevilka": "419",
+            "Nova številka": "604011",
+            "Ime postajališča": "Iški most",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "504",
+            "Nova številka": "603121",
+            "Ime postajališča": "Ižanska",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "505",
+            "Nova številka": "603122",
+            "Ime postajališča": "Ižanska"
+        },
+        {
+            "Stara\r\nštevilka": "888",
+            "Nova številka": "604061",
+            "Ime postajališča": "Ižica",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "889",
+            "Nova številka": "604062",
+            "Ime postajališča": "Ižica"
+        },
+        {
+            "Stara\r\nštevilka": "36",
+            "Nova številka": "603012",
+            "Ime postajališča": "Jadranska"
+        },
+        {
+            "Stara\r\nštevilka": "37",
+            "Nova številka": "603011",
+            "Ime postajališča": "Jadranska",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "336",
+            "Nova številka": "703032",
+            "Ime postajališča": "Jamnikarjeva"
+        },
+        {
+            "Stara\r\nštevilka": "337",
+            "Nova številka": "703031",
+            "Ime postajališča": "Jamnikarjeva",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "139",
+            "Nova številka": "403011",
+            "Ime postajališča": "Jana Husa",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "140",
+            "Nova številka": "403012",
+            "Ime postajališča": "Jana Husa"
+        },
+        {
+            "Stara\r\nštevilka": "528",
+            "Nova številka": "744021",
+            "Ime postajališča": "Japelj",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "783",
+            "Nova številka": "744022",
+            "Ime postajališča": "Japelj"
+        },
+        {
+            "Stara\r\nštevilka": "83",
+            "Nova številka": "203091",
+            "Ime postajališča": "Jarše",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "84",
+            "Nova številka": "203092",
+            "Ime postajališča": "Jarše"
+        },
+        {
+            "Stara\r\nštevilka": "624",
+            "Nova številka": "425012",
+            "Ime postajališča": "Javor pri Sostrem K."
+        },
+        {
+            "Stara\r\nštevilka": "625",
+            "Nova številka": "425011",
+            "Ime postajališča": "Javor pri Sostrem K.",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "581",
+            "Nova številka": "405011",
+            "Ime postajališča": "Javor/K.",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "582",
+            "Nova številka": "405012",
+            "Ime postajališča": "Javor/K."
+        },
+        {
+            "Stara\r\nštevilka": "574",
+            "Nova številka": "745061",
+            "Ime postajališča": "Jezero",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "443",
+            "Nova številka": "104181",
+            "Ime postajališča": "Ježa",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "444",
+            "Nova številka": "104182",
+            "Ime postajališča": "Ježa"
+        },
+        {
+            "Stara\r\nštevilka": "155",
+            "Nova številka": "104031",
+            "Ime postajališča": "Ježica",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "156",
+            "Nova številka": "104032",
+            "Ime postajališča": "Ježica"
+        },
+        {
+            "Stara\r\nštevilka": "234",
+            "Nova številka": "104033",
+            "Ime postajališča": "Ježica",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "510",
+            "Nova številka": "504041",
+            "Ime postajališča": "Jurčkova",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "511",
+            "Nova številka": "504042",
+            "Ime postajališča": "Jurčkova"
+        },
+        {
+            "Stara\r\nštevilka": "768",
+            "Nova številka": "815112",
+            "Ime postajališča": "Kajakaška"
+        },
+        {
+            "Stara\r\nštevilka": "769",
+            "Nova številka": "815111",
+            "Ime postajališča": "Kajakaška",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "74",
+            "Nova številka": "303022",
+            "Ime postajališča": "Kajuhova",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "368",
+            "Nova številka": "104021",
+            "Ime postajališča": "Kališnikov trg",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "369",
+            "Nova številka": "104022",
+            "Ime postajališča": "Kališnikov trg"
+        },
+        {
+            "Stara\r\nštevilka": "454",
+            "Nova številka": "803181",
+            "Ime postajališča": "Kamna Gorica",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "424",
+            "Nova številka": "102091",
+            "Ime postajališča": "Kardeljeva ploščad",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "425",
+            "Nova številka": "102092",
+            "Ime postajališča": "Kardeljeva ploščad"
+        },
+        {
+            "Stara\r\nštevilka": "77",
+            "Nova številka": "203052",
+            "Ime postajališča": "Kavčičeva",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "78",
+            "Nova številka": "203051",
+            "Ime postajališča": "Kavčičeva"
+        },
+        {
+            "Stara\r\nštevilka": "18",
+            "Nova številka": "802021",
+            "Ime postajališča": "Kino Šiška",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "19",
+            "Nova številka": "802022",
+            "Ime postajališča": "Kino Šiška"
+        },
+        {
+            "Stara\r\nštevilka": "67",
+            "Nova številka": "402031",
+            "Ime postajališča": "Klinični center",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "68",
+            "Nova številka": "402032",
+            "Ime postajališča": "Klinični center"
+        },
+        {
+            "Stara\r\nštevilka": "124",
+            "Nova številka": "803082",
+            "Ime postajališča": "Kneza Koclja"
+        },
+        {
+            "Stara\r\nštevilka": "125",
+            "Nova številka": "803081",
+            "Ime postajališča": "Kneza Koclja",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "141",
+            "Nova številka": "403023",
+            "Ime postajališča": "Kodeljevo",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "142",
+            "Nova številka": "403022",
+            "Ime postajališča": "Kodeljevo"
+        },
+        {
+            "Stara\r\nštevilka": "251",
+            "Nova številka": "403021",
+            "Ime postajališča": "Kodeljevo",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "539",
+            "Nova številka": "403025",
+            "Ime postajališča": "Kodeljevo - obračališče"
+        },
+        {
+            "Stara\r\nštevilka": "85",
+            "Nova številka": "203101",
+            "Ime postajališča": "Kodrova",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "86",
+            "Nova številka": "203102",
+            "Ime postajališča": "Kodrova"
+        },
+        {
+            "Stara\r\nštevilka": "24",
+            "Nova številka": "700011",
+            "Ime postajališča": "Kolizej",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "56",
+            "Nova številka": "300011",
+            "Ime postajališča": "Kolodvor",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "57",
+            "Nova številka": "300012",
+            "Ime postajališča": "Kolodvor"
+        },
+        {
+            "Stara\r\nštevilka": "151",
+            "Nova številka": "104101",
+            "Ime postajališča": "Kolodvor Črnuče",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "152",
+            "Nova številka": "104102",
+            "Ime postajališča": "Kolodvor Črnuče"
+        },
+        {
+            "Stara\r\nštevilka": "798",
+            "Nova številka": "835021",
+            "Ime postajališča": "Komandata Staneta",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "799",
+            "Nova številka": "835022",
+            "Ime postajališča": "Komandata Staneta"
+        },
+        {
+            "Stara\r\nštevilka": "971",
+            "Nova številka": "715022",
+            "Ime postajališča": "Komanija"
+        },
+        {
+            "Stara\r\nštevilka": "972",
+            "Nova številka": "715021",
+            "Ime postajališča": "Komanija",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "12",
+            "Nova številka": "803031",
+            "Ime postajališča": "Kompas",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "13",
+            "Nova številka": "803032",
+            "Ime postajališča": "Kompas"
+        },
+        {
+            "Stara\r\nštevilka": "723",
+            "Nova številka": "505172",
+            "Ime postajališča": "Kongo",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "26",
+            "Nova številka": "601012",
+            "Ime postajališča": "Konzorcij"
+        },
+        {
+            "Stara\r\nštevilka": "43",
+            "Nova številka": "603041",
+            "Ime postajališča": "Koprska",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "685",
+            "Nova številka": "603044",
+            "Ime postajališča": "Koprska"
+        },
+        {
+            "Stara\r\nštevilka": "120",
+            "Nova številka": "803142",
+            "Ime postajališča": "Koseze"
+        },
+        {
+            "Stara\r\nštevilka": "121",
+            "Nova številka": "803141",
+            "Ime postajališča": "Koseze",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "861",
+            "Nova številka": "826111",
+            "Ime postajališča": "Koseze",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "862",
+            "Nova številka": "826112",
+            "Ime postajališča": "Koseze"
+        },
+        {
+            "Stara\r\nštevilka": "863",
+            "Nova številka": "826121",
+            "Ime postajališča": "Koseze Stare",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "864",
+            "Nova številka": "826122",
+            "Ime postajališča": "Koseze Stare"
+        },
+        {
+            "Stara\r\nštevilka": "224",
+            "Nova številka": "804081",
+            "Ime postajališča": "Kosmačeva",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "225",
+            "Nova številka": "804082",
+            "Ime postajališča": "Kosmačeva"
+        },
+        {
+            "Stara\r\nštevilka": "786",
+            "Nova številka": "625042",
+            "Ime postajališča": "Kot"
+        },
+        {
+            "Stara\r\nštevilka": "787",
+            "Nova številka": "625041",
+            "Ime postajališča": "Kot",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "756",
+            "Nova številka": "803212",
+            "Ime postajališča": "Kovinarska"
+        },
+        {
+            "Stara\r\nštevilka": "757",
+            "Nova številka": "803211",
+            "Ime postajališča": "Kovinarska",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "575",
+            "Nova številka": "704102",
+            "Ime postajališča": "Kozarje"
+        },
+        {
+            "Stara\r\nštevilka": "576",
+            "Nova številka": "704101",
+            "Ime postajališča": "Kozarje",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "899",
+            "Nova številka": "714012",
+            "Ime postajališča": "Kozarje GD"
+        },
+        {
+            "Stara\r\nštevilka": "900",
+            "Nova številka": "714011",
+            "Ime postajališča": "Kozarje GD",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "568",
+            "Nova številka": "614082",
+            "Ime postajališča": "Kozler"
+        },
+        {
+            "Stara\r\nštevilka": "569",
+            "Nova številka": "614081",
+            "Ime postajališča": "Kozler",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "318",
+            "Nova številka": "404051",
+            "Ime postajališča": "KPL",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "319",
+            "Nova številka": "404052",
+            "Ime postajališča": "KPL"
+        },
+        {
+            "Stara\r\nštevilka": "747",
+            "Nova številka": "203211",
+            "Ime postajališča": "Kranjčeva",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "496",
+            "Nova številka": "501032",
+            "Ime postajališča": "Krekov trg",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "497",
+            "Nova številka": "501031",
+            "Ime postajališča": "Krekov trg"
+        },
+        {
+            "Stara\r\nštevilka": "40",
+            "Nova številka": "603032",
+            "Ime postajališča": "Krimska"
+        },
+        {
+            "Stara\r\nštevilka": "41",
+            "Nova številka": "603031",
+            "Ime postajališča": "Krimska",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "94",
+            "Nova številka": "602061",
+            "Ime postajališča": "Križanke",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "95",
+            "Nova številka": "602062",
+            "Ime postajališča": "Križanke"
+        },
+        {
+            "Stara\r\nštevilka": "324",
+            "Nova številka": "404081",
+            "Ime postajališča": "Križišče Sostro",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "325",
+            "Nova številka": "404082",
+            "Ime postajališča": "Križišče Sostro"
+        },
+        {
+            "Stara\r\nštevilka": "579",
+            "Nova številka": "404083",
+            "Ime postajališča": "Križišče Sostro",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "580",
+            "Nova številka": "404084",
+            "Ime postajališča": "Križišče Sostro"
+        },
+        {
+            "Stara\r\nštevilka": "533",
+            "Nova številka": "404102",
+            "Ime postajališča": "Krožna pot"
+        },
+        {
+            "Stara\r\nštevilka": "534",
+            "Nova številka": "404101",
+            "Ime postajališča": "Krožna pot",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "727",
+            "Nova številka": "536022",
+            "Ime postajališča": "Krpan",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "428",
+            "Nova številka": "101034",
+            "Ime postajališča": "Kržičeva"
+        },
+        {
+            "Stara\r\nštevilka": "772",
+            "Nova številka": "804312",
+            "Ime postajališča": "Kurirska"
+        },
+        {
+            "Stara\r\nštevilka": "773",
+            "Nova številka": "804311",
+            "Ime postajališča": "Kurirska",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "965",
+            "Nova številka": "727012",
+            "Ime postajališča": "Kurja vas/Šentjoštu",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "966",
+            "Nova številka": "727011",
+            "Ime postajališča": "Kurja vas/Šentjoštu",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "416",
+            "Nova številka": "603112",
+            "Ime postajališča": "Lahova pot"
+        },
+        {
+            "Stara\r\nštevilka": "417",
+            "Nova številka": "603111",
+            "Ime postajališča": "Lahova pot",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "607",
+            "Nova številka": "406071",
+            "Ime postajališča": "Lanišče",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "608",
+            "Nova številka": "406072",
+            "Ime postajališča": "Lanišče"
+        },
+        {
+            "Stara\r\nštevilka": "660",
+            "Nova številka": "504092",
+            "Ime postajališča": "Lavrica"
+        },
+        {
+            "Stara\r\nštevilka": "661",
+            "Nova številka": "504091",
+            "Ime postajališča": "Lavrica",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "658",
+            "Nova številka": "504082",
+            "Ime postajališča": "Lavrica pri Malči"
+        },
+        {
+            "Stara\r\nštevilka": "659",
+            "Nova številka": "504081",
+            "Ime postajališča": "Lavrica pri Malči",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "207",
+            "Nova številka": "204011",
+            "Ime postajališča": "Leskoškova",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "208",
+            "Nova številka": "204012",
+            "Ime postajališča": "Leskoškova"
+        },
+        {
+            "Stara\r\nštevilka": "213",
+            "Nova številka": "204041",
+            "Ime postajališča": "Letališka",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "214",
+            "Nova številka": "204042",
+            "Ime postajališča": "Letališka"
+        },
+        {
+            "Stara\r\nštevilka": "215",
+            "Nova številka": "204051",
+            "Ime postajališča": "Letališka-obračališče",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "566",
+            "Nova številka": "614072",
+            "Ime postajališča": "Lipe"
+        },
+        {
+            "Stara\r\nštevilka": "567",
+            "Nova številka": "614071",
+            "Ime postajališča": "Lipe",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "758",
+            "Nova številka": "103201",
+            "Ime postajališča": "Litostroj",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "232",
+            "Nova številka": "803051",
+            "Ime postajališča": "Litostrojska",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "233",
+            "Nova številka": "803052",
+            "Ime postajališča": "Litostrojska"
+        },
+        {
+            "Stara\r\nštevilka": "412",
+            "Nova številka": "603092",
+            "Ime postajališča": "Livada"
+        },
+        {
+            "Stara\r\nštevilka": "413",
+            "Nova številka": "603091",
+            "Ime postajališča": "Livada",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "577",
+            "Nova številka": "304103",
+            "Ime postajališča": "Lj. Vevče Papirnica",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "578",
+            "Nova številka": "304102",
+            "Ime postajališča": "Lj. Vevče Papirnica"
+        },
+        {
+            "Stara\r\nštevilka": "995",
+            "Nova številka": "716022",
+            "Ime postajališča": "Ljubgojna"
+        },
+        {
+            "Stara\r\nštevilka": "996",
+            "Nova številka": "716021",
+            "Ime postajališča": "Ljubgojna",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "610",
+            "Nova številka": "404132",
+            "Ime postajališča": "Ljubljana Dobrunje"
+        },
+        {
+            "Stara\r\nštevilka": "611",
+            "Nova številka": "404131",
+            "Ime postajališča": "Ljubljana Dobrunje",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "614",
+            "Nova številka": "404152",
+            "Ime postajališča": "Ljubljana Zadvor"
+        },
+        {
+            "Stara\r\nštevilka": "615",
+            "Nova številka": "404151",
+            "Ime postajališča": "Ljubljana Zadvor",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "721",
+            "Nova številka": "505152",
+            "Ime postajališča": "Ljubljanska",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "230",
+            "Nova številka": "803061",
+            "Ime postajališča": "Ljubljanske brigade",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "231",
+            "Nova številka": "803062",
+            "Ime postajališča": "Ljubljanske brigade"
+        },
+        {
+            "Stara\r\nštevilka": "925",
+            "Nova številka": "725082",
+            "Ime postajališča": "Log pri Polh.G."
+        },
+        {
+            "Stara\r\nštevilka": "926",
+            "Nova številka": "725081",
+            "Ime postajališča": "Log pri Polh.G.",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "903",
+            "Nova številka": "736012",
+            "Ime postajališča": "Mačkov graben"
+        },
+        {
+            "Stara\r\nštevilka": "904",
+            "Nova številka": "736011",
+            "Ime postajališča": "Mačkov graben",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "636",
+            "Nova številka": "415061",
+            "Ime postajališča": "Mali Lipoglav",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "701",
+            "Nova številka": "505042",
+            "Ime postajališča": "Mali vrh"
+        },
+        {
+            "Stara\r\nštevilka": "702",
+            "Nova številka": "505041",
+            "Ime postajališča": "Mali vrh",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "686",
+            "Nova številka": "103162",
+            "Ime postajališča": "Maroltova",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "687",
+            "Nova številka": "103161",
+            "Ime postajališča": "Maroltova"
+        },
+        {
+            "Stara\r\nštevilka": "217",
+            "Nova številka": "804131",
+            "Ime postajališča": "Martinova",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "374",
+            "Nova številka": "804071",
+            "Ime postajališča": "Medno",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "375",
+            "Nova številka": "804072",
+            "Ime postajališča": "Medno"
+        },
+        {
+            "Stara\r\nštevilka": "378",
+            "Nova številka": "805021",
+            "Ime postajališča": "Medvode",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "800",
+            "Nova številka": "805022",
+            "Ime postajališča": "Medvode"
+        },
+        {
+            "Stara\r\nštevilka": "890",
+            "Nova številka": "805023",
+            "Ime postajališča": "Medvode",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "801",
+            "Nova številka": "805052",
+            "Ime postajališča": "Medvode na klancu"
+        },
+        {
+            "Stara\r\nštevilka": "382",
+            "Nova številka": "805041",
+            "Ime postajališča": "Medvode naselje",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "376",
+            "Nova številka": "805011",
+            "Ime postajališča": "Medvoška a.p.",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "377",
+            "Nova številka": "805012",
+            "Ime postajališča": "Medvoška a.p."
+        },
+        {
+            "Stara\r\nštevilka": "166",
+            "Nova številka": "102081",
+            "Ime postajališča": "Mercator",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "167",
+            "Nova številka": "102082",
+            "Ime postajališča": "Mercator"
+        },
+        {
+            "Stara\r\nštevilka": "485",
+            "Nova številka": "604031",
+            "Ime postajališča": "Mestni log",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "508",
+            "Nova številka": "503051",
+            "Ime postajališča": "Mihov štradon",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "509",
+            "Nova številka": "503052",
+            "Ime postajališča": "Mihov štradon"
+        },
+        {
+            "Stara\r\nštevilka": "246",
+            "Nova številka": "602072",
+            "Ime postajališča": "Mirje"
+        },
+        {
+            "Stara\r\nštevilka": "247",
+            "Nova številka": "602071",
+            "Ime postajališča": "Mirje",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "753",
+            "Nova številka": "745032",
+            "Ime postajališča": "Mostiček"
+        },
+        {
+            "Stara\r\nštevilka": "754",
+            "Nova številka": "745031",
+            "Ime postajališča": "Mostiček",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "400",
+            "Nova številka": "102061",
+            "Ime postajališča": "Mostovna",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "401",
+            "Nova številka": "102062",
+            "Ime postajališča": "Mostovna"
+        },
+        {
+            "Stara\r\nštevilka": "729",
+            "Nova številka": "536012",
+            "Ime postajališča": "Mrzle njive",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "240",
+            "Nova številka": "603062",
+            "Ime postajališča": "Murgle"
+        },
+        {
+            "Stara\r\nštevilka": "241",
+            "Nova številka": "603061",
+            "Ime postajališča": "Murgle",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "871",
+            "Nova številka": "603064",
+            "Ime postajališča": "Murgle"
+        },
+        {
+            "Stara\r\nštevilka": "114",
+            "Nova številka": "804212",
+            "Ime postajališča": "Murkova"
+        },
+        {
+            "Stara\r\nštevilka": "115",
+            "Nova številka": "804211",
+            "Ime postajališča": "Murkova",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "529",
+            "Nova številka": "704062",
+            "Ime postajališča": "Na Gmajnici"
+        },
+        {
+            "Stara\r\nštevilka": "530",
+            "Nova številka": "704061",
+            "Ime postajališča": "Na Gmajnici",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "196",
+            "Nova številka": "802031",
+            "Ime postajališča": "Na jami",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "197",
+            "Nova številka": "802032",
+            "Ime postajališča": "Na jami"
+        },
+        {
+            "Stara\r\nštevilka": "222",
+            "Nova številka": "804091",
+            "Ime postajališča": "Na klancu",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "223",
+            "Nova številka": "804092",
+            "Ime postajališča": "Na klancu"
+        },
+        {
+            "Stara\r\nštevilka": "891",
+            "Nova številka": "203231",
+            "Ime postajališča": "Na Žale",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "892",
+            "Nova številka": "203232",
+            "Ime postajališča": "Na Žale"
+        },
+        {
+            "Stara\r\nštevilka": "445",
+            "Nova številka": "204131",
+            "Ime postajališča": "Nadgorica",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "446",
+            "Nova številka": "204132",
+            "Ime postajališča": "Nadgorica"
+        },
+        {
+            "Stara\r\nštevilka": "517",
+            "Nova številka": "100012",
+            "Ime postajališča": "Navje"
+        },
+        {
+            "Stara\r\nštevilka": "755",
+            "Nova številka": "745041",
+            "Ime postajališča": "Notranje Gorice",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "91",
+            "Nova številka": "203171",
+            "Ime postajališča": "Nove Jarše",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "89",
+            "Nova številka": "203161",
+            "Ime postajališča": "Nove Jarše-Šmartinska",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "421",
+            "Nova številka": "103081",
+            "Ime postajališča": "Nove Stožice",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "406",
+            "Nova številka": "203071",
+            "Ime postajališča": "Nove Žale",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "407",
+            "Nova številka": "203072",
+            "Ime postajališča": "Nove Žale"
+        },
+        {
+            "Stara\r\nštevilka": "380",
+            "Nova številka": "805031",
+            "Ime postajališča": "Novo naselje",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "381",
+            "Nova številka": "805032",
+            "Ime postajališča": "Novo naselje"
+        },
+        {
+            "Stara\r\nštevilka": "270",
+            "Nova številka": "204101",
+            "Ime postajališča": "Novo Polje",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "271",
+            "Nova številka": "204102",
+            "Ime postajališča": "Novo Polje",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "512",
+            "Nova številka": "504051",
+            "Ime postajališča": "NS Rudnik",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "513",
+            "Nova številka": "504052",
+            "Ime postajališča": "NS Rudnik"
+        },
+        {
+            "Stara\r\nštevilka": "514",
+            "Nova številka": "504061",
+            "Ime postajališča": "NS Rudnik",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "218",
+            "Nova številka": "804111",
+            "Ime postajališča": "Ob daljnovodu",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "219",
+            "Nova številka": "804112",
+            "Ime postajališča": "Ob daljnovodu"
+        },
+        {
+            "Stara\r\nštevilka": "250",
+            "Nova številka": "303032",
+            "Ime postajališča": "Ob sotočju"
+        },
+        {
+            "Stara\r\nštevilka": "434",
+            "Nova številka": "104081",
+            "Ime postajališča": "Obrtna cona",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "435",
+            "Nova številka": "104082",
+            "Ime postajališča": "Obrtna cona"
+        },
+        {
+            "Stara\r\nštevilka": "116",
+            "Nova številka": "804202",
+            "Ime postajališča": "Omersova"
+        },
+        {
+            "Stara\r\nštevilka": "117",
+            "Nova številka": "804201",
+            "Ime postajališča": "Omersova",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "503",
+            "Nova številka": "503014",
+            "Ime postajališča": "Orlova"
+        },
+        {
+            "Stara\r\nštevilka": "277",
+            "Nova številka": "304021",
+            "Ime postajališča": "Osenjakova",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "278",
+            "Nova številka": "304022",
+            "Ime postajališča": "Osenjakova"
+        },
+        {
+            "Stara\r\nštevilka": "719",
+            "Nova številka": "505162",
+            "Ime postajališča": "OŠ Brinje",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "886",
+            "Nova številka": "745101",
+            "Ime postajališča": "OŠ Jezero",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "483",
+            "Nova številka": "104151",
+            "Ime postajališča": "OŠ Maksa Pečarja",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "484",
+            "Nova številka": "104152",
+            "Ime postajališča": "OŠ Maksa Pečarja"
+        },
+        {
+            "Stara\r\nštevilka": "616",
+            "Nova številka": "404162",
+            "Ime postajališča": "OŠ Sostro"
+        },
+        {
+            "Stara\r\nštevilka": "617",
+            "Nova številka": "404161",
+            "Ime postajališča": "OŠ Sostro",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "778",
+            "Nova številka": "804342",
+            "Ime postajališča": "Oval"
+        },
+        {
+            "Stara\r\nštevilka": "779",
+            "Nova številka": "804341",
+            "Ime postajališča": "Oval",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "632",
+            "Nova številka": "415052",
+            "Ime postajališča": "Pance K."
+        },
+        {
+            "Stara\r\nštevilka": "633",
+            "Nova številka": "415051",
+            "Ime postajališča": "Pance K.",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "350",
+            "Nova številka": "101021",
+            "Ime postajališča": "Parmova",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "351",
+            "Nova številka": "101022",
+            "Ime postajališča": "Parmova"
+        },
+        {
+            "Stara\r\nštevilka": "106",
+            "Nova številka": "503041",
+            "Ime postajališča": "Peruzzijeva",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "107",
+            "Nova številka": "503042",
+            "Ime postajališča": "Peruzzijeva"
+        },
+        {
+            "Stara\r\nštevilka": "905",
+            "Nova številka": "736022",
+            "Ime postajališča": "Petačev graben"
+        },
+        {
+            "Stara\r\nštevilka": "906",
+            "Nova številka": "736021",
+            "Ime postajališča": "Petačev graben",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "283",
+            "Nova številka": "304111",
+            "Ime postajališča": "Petrol",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "284",
+            "Nova številka": "304112",
+            "Ime postajališča": "Petrol"
+        },
+        {
+            "Stara\r\nštevilka": "554",
+            "Nova številka": "614012",
+            "Ime postajališča": "Plečnikova cerkev"
+        },
+        {
+            "Stara\r\nštevilka": "555",
+            "Nova številka": "614011",
+            "Ime postajališča": "Plečnikova cerkev",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "186",
+            "Nova številka": "803121",
+            "Ime postajališča": "Plešičeva",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "187",
+            "Nova številka": "803122",
+            "Ime postajališča": "Plešičeva"
+        },
+        {
+            "Stara\r\nštevilka": "305",
+            "Nova številka": "403031",
+            "Ime postajališča": "Pod Golovcem",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "306",
+            "Nova številka": "403032",
+            "Ime postajališča": "Pod Golovcem"
+        },
+        {
+            "Stara\r\nštevilka": "715",
+            "Nova številka": "505112",
+            "Ime postajališča": "Pod gozdom"
+        },
+        {
+            "Stara\r\nštevilka": "716",
+            "Nova številka": "505111",
+            "Ime postajališča": "Pod gozdom",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "656",
+            "Nova številka": "504072",
+            "Ime postajališča": "Pod Hribom"
+        },
+        {
+            "Stara\r\nštevilka": "657",
+            "Nova številka": "504071",
+            "Ime postajališča": "Pod Hribom",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "489",
+            "Nova številka": "804191",
+            "Ime postajališča": "Pod Kamno Gorico",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "344",
+            "Nova številka": "702012",
+            "Ime postajališča": "Pod Rožnikom"
+        },
+        {
+            "Stara\r\nštevilka": "345",
+            "Nova številka": "702011",
+            "Ime postajališča": "Pod Rožnikom",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "4",
+            "Nova številka": "804031",
+            "Ime postajališča": "Podgora",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "5",
+            "Nova številka": "804032",
+            "Ime postajališča": "Podgora"
+        },
+        {
+            "Stara\r\nštevilka": "620",
+            "Nova številka": "415022",
+            "Ime postajališča": "Podlipoglav"
+        },
+        {
+            "Stara\r\nštevilka": "621",
+            "Nova številka": "415021",
+            "Ime postajališča": "Podlipoglav",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "354",
+            "Nova številka": "102051",
+            "Ime postajališča": "Podmilščakova",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "355",
+            "Nova številka": "102052",
+            "Ime postajališča": "Podmilščakova"
+        },
+        {
+            "Stara\r\nštevilka": "332",
+            "Nova številka": "703052",
+            "Ime postajališča": "Podmornica"
+        },
+        {
+            "Stara\r\nštevilka": "333",
+            "Nova številka": "703051",
+            "Ime postajališča": "Podmornica",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "987",
+            "Nova številka": "715122",
+            "Ime postajališča": "Podolnica"
+        },
+        {
+            "Stara\r\nštevilka": "988",
+            "Nova številka": "715121",
+            "Ime postajališča": "Podolnica",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "572",
+            "Nova številka": "745052",
+            "Ime postajališča": "Podpeč"
+        },
+        {
+            "Stara\r\nštevilka": "573",
+            "Nova številka": "745051",
+            "Ime postajališča": "Podpeč",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "933",
+            "Nova številka": "725122",
+            "Ime postajališča": "Podreber/Polh.G."
+        },
+        {
+            "Stara\r\nštevilka": "934",
+            "Nova številka": "725121",
+            "Ime postajališča": "Podreber/Polh.G.",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "993",
+            "Nova številka": "715032",
+            "Ime postajališča": "Podsmreka GD"
+        },
+        {
+            "Stara\r\nštevilka": "994",
+            "Nova številka": "715031",
+            "Ime postajališča": "Podsmreka GD",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "895",
+            "Nova številka": "715052",
+            "Ime postajališča": "Podsmreka pri Gorjancu"
+        },
+        {
+            "Stara\r\nštevilka": "896",
+            "Nova številka": "715051",
+            "Ime postajališča": "Podsmreka pri Gorjancu",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "897",
+            "Nova številka": "715042",
+            "Ime postajališča": "Podsmreka Rotar"
+        },
+        {
+            "Stara\r\nštevilka": "898",
+            "Nova številka": "715041",
+            "Ime postajališča": "Podsmreka Rotar",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "113",
+            "Nova številka": "804221",
+            "Ime postajališča": "Podutik",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "360",
+            "Nova številka": "103061",
+            "Ime postajališča": "Pohorskega bataljona",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "361",
+            "Nova številka": "103062",
+            "Ime postajališča": "Pohorskega bataljona"
+        },
+        {
+            "Stara\r\nštevilka": "46",
+            "Nova številka": "203011",
+            "Ime postajališča": "Pokopališka",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "47",
+            "Nova številka": "203012",
+            "Ime postajališča": "Pokopališka"
+        },
+        {
+            "Stara\r\nštevilka": "477",
+            "Nova številka": "104121",
+            "Ime postajališča": "Polanškova",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "478",
+            "Nova številka": "104122",
+            "Ime postajališča": "Polanškova"
+        },
+        {
+            "Stara\r\nštevilka": "937",
+            "Nova številka": "726012",
+            "Ime postajališča": "Polhov Gradec"
+        },
+        {
+            "Stara\r\nštevilka": "938",
+            "Nova številka": "726011",
+            "Ime postajališča": "Polhov Gradec",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "248",
+            "Nova številka": "402022",
+            "Ime postajališča": "Poliklinika"
+        },
+        {
+            "Stara\r\nštevilka": "249",
+            "Nova številka": "402021",
+            "Ime postajališča": "Poliklinika",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "65",
+            "Nova številka": "502011",
+            "Ime postajališča": "Poljanska",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "66",
+            "Nova številka": "502012",
+            "Ime postajališča": "Poljanska"
+        },
+        {
+            "Stara\r\nštevilka": "266",
+            "Nova številka": "304071",
+            "Ime postajališča": "Polje",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "267",
+            "Nova številka": "304074",
+            "Ime postajališča": "Polje",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "280",
+            "Nova številka": "304072",
+            "Ime postajališča": "Polje"
+        },
+        {
+            "Stara\r\nštevilka": "303",
+            "Nova številka": "304073",
+            "Ime postajališča": "Polje"
+        },
+        {
+            "Stara\r\nštevilka": "834",
+            "Nova številka": "825031",
+            "Ime postajališča": "Polje obračališče",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "268",
+            "Nova številka": "304081",
+            "Ime postajališča": "Polje-kolodvor",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "269",
+            "Nova številka": "304082",
+            "Ime postajališča": "Polje-kolodvor",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "27",
+            "Nova številka": "601011",
+            "Ime postajališča": "Pošta",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "316",
+            "Nova številka": "404041",
+            "Ime postajališča": "Pošta Dobrunje",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "317",
+            "Nova številka": "404042",
+            "Ime postajališča": "Pošta Dobrunje"
+        },
+        {
+            "Stara\r\nštevilka": "256",
+            "Nova številka": "303051",
+            "Ime postajališča": "Pot na Fužine",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "274",
+            "Nova številka": "303052",
+            "Ime postajališča": "Pot na Fužine"
+        },
+        {
+            "Stara\r\nštevilka": "238",
+            "Nova številka": "603072",
+            "Ime postajališča": "Pot na Rakovo jelšo"
+        },
+        {
+            "Stara\r\nštevilka": "239",
+            "Nova številka": "603071",
+            "Ime postajališča": "Pot na Rakovo jelšo",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "481",
+            "Nova številka": "104141",
+            "Ime postajališča": "Pot v Hrastovec",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "482",
+            "Nova številka": "104142",
+            "Ime postajališča": "Pot v Hrastovec"
+        },
+        {
+            "Stara\r\nštevilka": "479",
+            "Nova številka": "104131",
+            "Ime postajališča": "Pot v Smrečje",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "480",
+            "Nova številka": "104132",
+            "Ime postajališča": "Pot v Smrečje"
+        },
+        {
+            "Stara\r\nštevilka": "829",
+            "Nova številka": "825012",
+            "Ime postajališča": "Povodje"
+        },
+        {
+            "Stara\r\nštevilka": "830",
+            "Nova številka": "825011",
+            "Ime postajališča": "Povodje",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "259",
+            "Nova številka": "304011",
+            "Ime postajališča": "Preglov trg",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "260",
+            "Nova številka": "304012",
+            "Ime postajališča": "Preglov trg"
+        },
+        {
+            "Stara\r\nštevilka": "200",
+            "Nova številka": "202021",
+            "Ime postajališča": "Prekmurska",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "201",
+            "Nova številka": "202022",
+            "Ime postajališča": "Prekmurska"
+        },
+        {
+            "Stara\r\nštevilka": "330",
+            "Nova številka": "703062",
+            "Ime postajališča": "Preval"
+        },
+        {
+            "Stara\r\nštevilka": "331",
+            "Nova številka": "703061",
+            "Ime postajališča": "Preval",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "602",
+            "Nova številka": "406042",
+            "Ime postajališča": "Prežganje Š."
+        },
+        {
+            "Stara\r\nštevilka": "601",
+            "Nova številka": "406041",
+            "Ime postajališča": "Prežganje Š.",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "599",
+            "Nova številka": "406031",
+            "Ime postajališča": "Prežganje Š. K.",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "600",
+            "Nova številka": "406032",
+            "Ime postajališča": "Prežganje Š. K."
+        },
+        {
+            "Stara\r\nštevilka": "634",
+            "Nova številka": "415072",
+            "Ime postajališča": "Pri Dogonivar"
+        },
+        {
+            "Stara\r\nštevilka": "635",
+            "Nova številka": "415071",
+            "Ime postajališča": "Pri Dogonivar",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "622",
+            "Nova številka": "415092",
+            "Ime postajališča": "Pri Dolencu"
+        },
+        {
+            "Stara\r\nštevilka": "623",
+            "Nova številka": "415091",
+            "Ime postajališča": "Pri Dolencu",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "735",
+            "Nova številka": "604052",
+            "Ime postajališča": "Pri Maranzu"
+        },
+        {
+            "Stara\r\nštevilka": "736",
+            "Nova številka": "604051",
+            "Ime postajališča": "Pri Maranzu",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "525",
+            "Nova številka": "704081",
+            "Ime postajališča": "Pri Poku",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "630",
+            "Nova številka": "415082",
+            "Ime postajališča": "Primožev ovinek"
+        },
+        {
+            "Stara\r\nštevilka": "631",
+            "Nova številka": "415081",
+            "Ime postajališča": "Primožev ovinek",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "476",
+            "Nova številka": "104113",
+            "Ime postajališča": "Primožičeva"
+        },
+        {
+            "Stara\r\nštevilka": "98",
+            "Nova številka": "602111",
+            "Ime postajališča": "Privoz",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "99",
+            "Nova številka": "602112",
+            "Ime postajališča": "Privoz"
+        },
+        {
+            "Stara\r\nštevilka": "6",
+            "Nova številka": "804021",
+            "Ime postajališča": "Prušnikova",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "7",
+            "Nova številka": "804022",
+            "Ime postajališča": "Prušnikova"
+        },
+        {
+            "Stara\r\nštevilka": "183",
+            "Nova številka": "804181",
+            "Ime postajališča": "Pržan",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "422",
+            "Nova številka": "103041",
+            "Ime postajališča": "Puhova",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "423",
+            "Nova številka": "103042",
+            "Ime postajališča": "Puhova"
+        },
+        {
+            "Stara\r\nštevilka": "540",
+            "Nova številka": "704072",
+            "Ime postajališča": "Radna"
+        },
+        {
+            "Stara\r\nštevilka": "102",
+            "Nova številka": "503021",
+            "Ime postajališča": "Rakovnik",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "103",
+            "Nova številka": "503022",
+            "Ime postajališča": "Rakovnik"
+        },
+        {
+            "Stara\r\nštevilka": "308",
+            "Nova številka": "403061",
+            "Ime postajališča": "Rast",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "309",
+            "Nova številka": "403062",
+            "Ime postajališča": "Rast"
+        },
+        {
+            "Stara\r\nštevilka": "390",
+            "Nova številka": "104211",
+            "Ime postajališča": "Rašica",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "391",
+            "Nova številka": "104212",
+            "Ime postajališča": "Rašica"
+        },
+        {
+            "Stara\r\nštevilka": "703",
+            "Nova številka": "505052",
+            "Ime postajališča": "Razdrto"
+        },
+        {
+            "Stara\r\nštevilka": "704",
+            "Nova številka": "505051",
+            "Ime postajališča": "Razdrto",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "909",
+            "Nova številka": "714042",
+            "Ime postajališča": "Razori K"
+        },
+        {
+            "Stara\r\nštevilka": "910",
+            "Nova številka": "714041",
+            "Ime postajališča": "Razori K",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "907",
+            "Nova številka": "714032",
+            "Ime postajališča": "Razori Rogovilc"
+        },
+        {
+            "Stara\r\nštevilka": "908",
+            "Nova številka": "714031",
+            "Ime postajališča": "Razori Rogovilc",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "172",
+            "Nova številka": "100021",
+            "Ime postajališča": "Razstavišče",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "173",
+            "Nova številka": "100022",
+            "Ime postajališča": "Razstavišče"
+        },
+        {
+            "Stara\r\nštevilka": "451",
+            "Nova številka": "204161",
+            "Ime postajališča": "Reaktor",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "452",
+            "Nova številka": "204162",
+            "Ime postajališča": "Reaktor"
+        },
+        {
+            "Stara\r\nštevilka": "697",
+            "Nova številka": "505022",
+            "Ime postajališča": "Reber pri Škofljici"
+        },
+        {
+            "Stara\r\nštevilka": "698",
+            "Nova številka": "505021",
+            "Ime postajališča": "Reber pri Škofljici",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "17",
+            "Nova številka": "803014",
+            "Ime postajališča": "Remiza"
+        },
+        {
+            "Stara\r\nštevilka": "835",
+            "Nova številka": "825042",
+            "Ime postajališča": "Repnje Benk"
+        },
+        {
+            "Stara\r\nštevilka": "836",
+            "Nova številka": "825041",
+            "Ime postajališča": "Repnje Benk",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "839",
+            "Nova številka": "825062",
+            "Ime postajališča": "Repnje kapelica"
+        },
+        {
+            "Stara\r\nštevilka": "840",
+            "Nova številka": "825061",
+            "Ime postajališča": "Repnje kapelica",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "837",
+            "Nova številka": "825052",
+            "Ime postajališča": "Repnje samostan"
+        },
+        {
+            "Stara\r\nštevilka": "838",
+            "Nova številka": "825051",
+            "Ime postajališča": "Repnje samostan",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "211",
+            "Nova številka": "204031",
+            "Ime postajališča": "Rog",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "212",
+            "Nova številka": "204032",
+            "Ime postajališča": "Rog"
+        },
+        {
+            "Stara\r\nštevilka": "149",
+            "Nova številka": "104111",
+            "Ime postajališča": "Rogovilc",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "150",
+            "Nova številka": "104112",
+            "Ime postajališča": "Rogovilc"
+        },
+        {
+            "Stara\r\nštevilka": "465",
+            "Nova številka": "502022",
+            "Ime postajališča": "Roška"
+        },
+        {
+            "Stara\r\nštevilka": "500",
+            "Nova številka": "502021",
+            "Ime postajališča": "Roška",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "879",
+            "Nova številka": "502024",
+            "Ime postajališča": "Roška"
+        },
+        {
+            "Stara\r\nštevilka": "79",
+            "Nova številka": "203022",
+            "Ime postajališča": "Rožičeva",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "80",
+            "Nova številka": "203021",
+            "Ime postajališča": "Rožičeva"
+        },
+        {
+            "Stara\r\nštevilka": "340",
+            "Nova številka": "703012",
+            "Ime postajališča": "Rožna dolina"
+        },
+        {
+            "Stara\r\nštevilka": "341",
+            "Nova številka": "703011",
+            "Ime postajališča": "Rožna dolina",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "112",
+            "Nova številka": "504031",
+            "Ime postajališča": "Rudnik",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "675",
+            "Nova številka": "504033",
+            "Ime postajališča": "Rudnik",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "676",
+            "Nova številka": "504032",
+            "Ime postajališča": "Rudnik"
+        },
+        {
+            "Stara\r\nštevilka": "261",
+            "Nova številka": "304031",
+            "Ime postajališča": "Rusjanov trg",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "262",
+            "Nova številka": "304032",
+            "Ime postajališča": "Rusjanov trg"
+        },
+        {
+            "Stara\r\nštevilka": "157",
+            "Nova številka": "103131",
+            "Ime postajališča": "Ruski car",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "158",
+            "Nova številka": "103132",
+            "Ime postajališča": "Ruski car"
+        },
+        {
+            "Stara\r\nštevilka": "564",
+            "Nova številka": "614062",
+            "Ime postajališča": "Rutar"
+        },
+        {
+            "Stara\r\nštevilka": "565",
+            "Nova številka": "614061",
+            "Ime postajališča": "Rutar",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "618",
+            "Nova številka": "415012",
+            "Ime postajališča": "Sadinja vas"
+        },
+        {
+            "Stara\r\nštevilka": "619",
+            "Nova številka": "415011",
+            "Ime postajališča": "Sadinja vas",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "460",
+            "Nova številka": "102011",
+            "Ime postajališča": "Samova"
+        },
+        {
+            "Stara\r\nštevilka": "461",
+            "Nova številka": "102012",
+            "Ime postajališča": "Samova",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "708",
+            "Nova številka": "505071",
+            "Ime postajališča": "Sap",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "707",
+            "Nova številka": "505072",
+            "Ime postajališča": "Sap"
+        },
+        {
+            "Stara\r\nštevilka": "291",
+            "Nova številka": "204201",
+            "Ime postajališča": "Saturnus",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "153",
+            "Nova številka": "104051",
+            "Ime postajališča": "Sava",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "154",
+            "Nova številka": "104052",
+            "Ime postajališča": "Sava"
+        },
+        {
+            "Stara\r\nštevilka": "544",
+            "Nova številka": "104054",
+            "Ime postajališča": "Sava"
+        },
+        {
+            "Stara\r\nštevilka": "370",
+            "Nova številka": "104011",
+            "Ime postajališča": "Savlje",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "202",
+            "Nova številka": "202031",
+            "Ime postajališča": "Savske stolpnice",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "203",
+            "Nova številka": "202032",
+            "Ime postajališča": "Savske stolpnice"
+        },
+        {
+            "Stara\r\nštevilka": "50",
+            "Nova številka": "202041",
+            "Ime postajališča": "Savsko naselje",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "51",
+            "Nova številka": "202042",
+            "Ime postajališča": "Savsko naselje"
+        },
+        {
+            "Stara\r\nštevilka": "857",
+            "Nova številka": "826101",
+            "Ime postajališča": "Selo Mali Dunaj",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "858",
+            "Nova številka": "826102",
+            "Ime postajališča": "Selo Mali Dunaj"
+        },
+        {
+            "Stara\r\nštevilka": "628",
+            "Nova številka": "415042",
+            "Ime postajališča": "Selo pri Pancah K."
+        },
+        {
+            "Stara\r\nštevilka": "629",
+            "Nova številka": "415041",
+            "Ime postajališča": "Selo pri Pancah K.",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "855",
+            "Nova številka": "826052",
+            "Ime postajališča": "Selo pri Vodicah"
+        },
+        {
+            "Stara\r\nštevilka": "856",
+            "Nova številka": "826051",
+            "Ime postajališča": "Selo pri Vodicah",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "285",
+            "Nova številka": "304131",
+            "Ime postajališča": "Silos",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "286",
+            "Nova številka": "304132",
+            "Ime postajališča": "Silos"
+        },
+        {
+            "Stara\r\nštevilka": "831",
+            "Nova številka": "825022",
+            "Ime postajališča": "Skaručna"
+        },
+        {
+            "Stara\r\nštevilka": "832",
+            "Nova številka": "825021",
+            "Ime postajališča": "Skaručna",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "16",
+            "Nova številka": "803011",
+            "Ime postajališča": "Slovenija avto",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "93",
+            "Nova številka": "803012",
+            "Ime postajališča": "Slovenija avto"
+        },
+        {
+            "Stara\r\nštevilka": "430",
+            "Nova številka": "204111",
+            "Ime postajališča": "Slovenijales",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "431",
+            "Nova številka": "204112",
+            "Ime postajališča": "Slovenijales"
+        },
+        {
+            "Stara\r\nštevilka": "162",
+            "Nova številka": "103071",
+            "Ime postajališča": "Smelt",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "163",
+            "Nova številka": "103072",
+            "Ime postajališča": "Smelt"
+        },
+        {
+            "Stara\r\nštevilka": "811",
+            "Nova številka": "815121",
+            "Ime postajališča": "Smlednik šola",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "812",
+            "Nova številka": "815122",
+            "Ime postajališča": "Smlednik šola"
+        },
+        {
+            "Stara\r\nštevilka": "947",
+            "Nova številka": "737022",
+            "Ime postajališča": "Smolnik nad hribom"
+        },
+        {
+            "Stara\r\nštevilka": "948",
+            "Nova številka": "737021",
+            "Ime postajališča": "Smolnik nad hribom",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "945",
+            "Nova številka": "737012",
+            "Ime postajališča": "Smolnik Praprotnik"
+        },
+        {
+            "Stara\r\nštevilka": "946",
+            "Nova številka": "737011",
+            "Ime postajališča": "Smolnik Praprotnik",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "943",
+            "Nova številka": "736052",
+            "Ime postajališča": "Smolnik Setnik"
+        },
+        {
+            "Stara\r\nštevilka": "944",
+            "Nova številka": "736051",
+            "Ime postajališča": "Smolnik Setnik",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "941",
+            "Nova številka": "736042",
+            "Ime postajališča": "Smolnik Zalog"
+        },
+        {
+            "Stara\r\nštevilka": "942",
+            "Nova številka": "736041",
+            "Ime postajališča": "Smolnik Zalog",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "939",
+            "Nova številka": "736032",
+            "Ime postajališča": "Smolnik žaga"
+        },
+        {
+            "Stara\r\nštevilka": "940",
+            "Nova številka": "736031",
+            "Ime postajališča": "Smolnik žaga",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "603",
+            "Nova številka": "406051",
+            "Ime postajališča": "Smrekarjevo",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "604",
+            "Nova številka": "406052",
+            "Ime postajališča": "Smrekarjevo"
+        },
+        {
+            "Stara\r\nštevilka": "297",
+            "Nova številka": "204071",
+            "Ime postajališča": "Sneberje",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "298",
+            "Nova številka": "204072",
+            "Ime postajališča": "Sneberje"
+        },
+        {
+            "Stara\r\nštevilka": "570",
+            "Nova številka": "614092",
+            "Ime postajališča": "Snoj"
+        },
+        {
+            "Stara\r\nštevilka": "571",
+            "Nova številka": "614091",
+            "Ime postajališča": "Snoj",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "326",
+            "Nova številka": "404091",
+            "Ime postajališča": "Sostro",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "637",
+            "Nova številka": "404092",
+            "Ime postajališča": "Sostro"
+        },
+        {
+            "Stara\r\nštevilka": "638",
+            "Nova številka": "404093",
+            "Ime postajališča": "Sostro",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "762",
+            "Nova številka": "815022",
+            "Ime postajališča": "Sp. Pirniče"
+        },
+        {
+            "Stara\r\nštevilka": "763",
+            "Nova številka": "815021",
+            "Ime postajališča": "Sp. Pirniče",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "455",
+            "Nova številka": "803171",
+            "Ime postajališča": "Spar",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "456",
+            "Nova številka": "803172",
+            "Ime postajališča": "Spar"
+        },
+        {
+            "Stara\r\nštevilka": "110",
+            "Nova številka": "504021",
+            "Ime postajališča": "Spodnji Rudnik",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "111",
+            "Nova številka": "504022",
+            "Ime postajališča": "Spodnji Rudnik"
+        },
+        {
+            "Stara\r\nštevilka": "935",
+            "Nova številka": "725132",
+            "Ime postajališča": "Sr.vas pri Polh.G."
+        },
+        {
+            "Stara\r\nštevilka": "936",
+            "Nova številka": "725131",
+            "Ime postajališča": "Sr.vas pri Polh.G.",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "293",
+            "Nova številka": "202043",
+            "Ime postajališča": "Središka",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "294",
+            "Nova številka": "202044",
+            "Ime postajališča": "Središka"
+        },
+        {
+            "Stara\r\nštevilka": "168",
+            "Nova številka": "102041",
+            "Ime postajališča": "Stadion",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "169",
+            "Nova številka": "102042",
+            "Ime postajališča": "Stadion"
+        },
+        {
+            "Stara\r\nštevilka": "784",
+            "Nova številka": "625032",
+            "Ime postajališča": "Staje"
+        },
+        {
+            "Stara\r\nštevilka": "785",
+            "Nova številka": "625031",
+            "Ime postajališča": "Staje",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "174",
+            "Nova številka": "703072",
+            "Ime postajališča": "Stan in dom"
+        },
+        {
+            "Stara\r\nštevilka": "175",
+            "Nova številka": "703071",
+            "Ime postajališča": "Stan in dom",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "372",
+            "Nova številka": "804061",
+            "Ime postajališča": "Stanežiče",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "373",
+            "Nova številka": "804062",
+            "Ime postajališča": "Stanežiče"
+        },
+        {
+            "Stara\r\nštevilka": "782",
+            "Nova številka": "804361",
+            "Ime postajališča": "Stanežiče",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "20",
+            "Nova številka": "802011",
+            "Ime postajališča": "Stara cerkev",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "21",
+            "Nova številka": "802012",
+            "Ime postajališča": "Stara cerkev"
+        },
+        {
+            "Stara\r\nštevilka": "713",
+            "Nova številka": "505102",
+            "Ime postajališča": "Stara pošta"
+        },
+        {
+            "Stara\r\nštevilka": "714",
+            "Nova številka": "505101",
+            "Ime postajališča": "Stara pošta",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "159",
+            "Nova številka": "103101",
+            "Ime postajališča": "Stožice",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "160",
+            "Nova številka": "103102",
+            "Ime postajališča": "Stožice"
+        },
+        {
+            "Stara\r\nštevilka": "100",
+            "Nova številka": "503011",
+            "Ime postajališča": "Strelišče",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "101",
+            "Nova številka": "503012",
+            "Ime postajališča": "Strelišče"
+        },
+        {
+            "Stara\r\nštevilka": "498",
+            "Nova številka": "502031",
+            "Ime postajališča": "Streliška",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "499",
+            "Nova številka": "502032",
+            "Ime postajališča": "Streliška"
+        },
+        {
+            "Stara\r\nštevilka": "264",
+            "Nova številka": "304061",
+            "Ime postajališča": "Studenec",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "265",
+            "Nova številka": "304062",
+            "Ime postajališča": "Studenec"
+        },
+        {
+            "Stara\r\nštevilka": "968",
+            "Nova številka": "727021",
+            "Ime postajališča": "Suhi Dol/Planino",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "884",
+            "Nova številka": "835031",
+            "Ime postajališča": "Svetje",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "595",
+            "Nova številka": "406011",
+            "Ime postajališča": "Šemnikar",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "596",
+            "Nova številka": "406012",
+            "Ime postajališča": "Šemnikar"
+        },
+        {
+            "Stara\r\nštevilka": "449",
+            "Nova številka": "204151",
+            "Ime postajališča": "Šentjakob",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "450",
+            "Nova številka": "204152",
+            "Ime postajališča": "Šentjakob"
+        },
+        {
+            "Stara\r\nštevilka": "970",
+            "Nova številka": "716051",
+            "Ime postajališča": "Šentjošt",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "2",
+            "Nova številka": "804041",
+            "Ime postajališča": "Šentvid",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "3",
+            "Nova številka": "804042",
+            "Ime postajališča": "Šentvid"
+        },
+        {
+            "Stara\r\nštevilka": "865",
+            "Nova številka": "826131",
+            "Ime postajališča": "Šinkov Turn",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "866",
+            "Nova številka": "826132",
+            "Ime postajališča": "Šinkov Turn"
+        },
+        {
+            "Stara\r\nštevilka": "867",
+            "Nova številka": "826141",
+            "Ime postajališča": "Šinkov Turn hrib",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "868",
+            "Nova številka": "826142",
+            "Ime postajališča": "Šinkov Turn hrib"
+        },
+        {
+            "Stara\r\nštevilka": "126",
+            "Nova številka": "803016",
+            "Ime postajališča": "Šišenska"
+        },
+        {
+            "Stara\r\nštevilka": "694",
+            "Nova številka": "515012",
+            "Ime postajališča": "Škofljica"
+        },
+        {
+            "Stara\r\nštevilka": "695",
+            "Nova številka": "505012",
+            "Ime postajališča": "Škofljica Javornik"
+        },
+        {
+            "Stara\r\nštevilka": "696",
+            "Nova številka": "505011",
+            "Ime postajališča": "Škofljica Javornik",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "667",
+            "Nova številka": "515013",
+            "Ime postajališča": "Škofljica obračališče",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "662",
+            "Nova številka": "504102",
+            "Ime postajališča": "Škofljica Petkovšek"
+        },
+        {
+            "Stara\r\nštevilka": "663",
+            "Nova številka": "504101",
+            "Ime postajališča": "Škofljica Petkovšek",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "666",
+            "Nova številka": "515011",
+            "Ime postajališča": "Škofljica špica",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "664",
+            "Nova številka": "504112",
+            "Ime postajališča": "Škofljica žaga"
+        },
+        {
+            "Stara\r\nštevilka": "665",
+            "Nova številka": "504111",
+            "Ime postajališča": "Škofljica žaga",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "436",
+            "Nova številka": "104071",
+            "Ime postajališča": "Šlandrova",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "437",
+            "Nova številka": "104072",
+            "Ime postajališča": "Šlandrova"
+        },
+        {
+            "Stara\r\nštevilka": "705",
+            "Nova številka": "505062",
+            "Ime postajališča": "Šmarje"
+        },
+        {
+            "Stara\r\nštevilka": "706",
+            "Nova številka": "505061",
+            "Ime postajališča": "Šmarje",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "387",
+            "Nova številka": "104191",
+            "Ime postajališča": "Šmartno",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "388",
+            "Nova številka": "104192",
+            "Ime postajališča": "Šmartno",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "825",
+            "Nova številka": "104194",
+            "Ime postajališča": "Šmartno pod Š.G."
+        },
+        {
+            "Stara\r\nštevilka": "826",
+            "Nova številka": "104193",
+            "Ime postajališča": "Šmartno pod Š.G.",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "81",
+            "Nova številka": "203041",
+            "Ime postajališča": "Šola Jarše",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "82",
+            "Nova številka": "203042",
+            "Ime postajališča": "Šola Jarše"
+        },
+        {
+            "Stara\r\nštevilka": "462",
+            "Nova številka": "203044",
+            "Ime postajališča": "Šola Jarše"
+        },
+        {
+            "Stara\r\nštevilka": "542",
+            "Nova številka": "744011",
+            "Ime postajališča": "Šolska",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "543",
+            "Nova številka": "744012",
+            "Ime postajališča": "Šolska"
+        },
+        {
+            "Stara\r\nštevilka": "699",
+            "Nova številka": "505032",
+            "Ime postajališča": "Špilar"
+        },
+        {
+            "Stara\r\nštevilka": "700",
+            "Nova številka": "505031",
+            "Ime postajališča": "Špilar",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "143",
+            "Nova številka": "403043",
+            "Ime postajališča": "Štepanja vas",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "144",
+            "Nova številka": "403042",
+            "Ime postajališča": "Štepanja vas"
+        },
+        {
+            "Stara\r\nštevilka": "307",
+            "Nova številka": "403041",
+            "Ime postajališča": "Štepanja vas",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "147",
+            "Nova številka": "303041",
+            "Ime postajališča": "Štepanjsko naselje",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "252",
+            "Nova številka": "303043",
+            "Ime postajališča": "Štepanjsko naselje",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "342",
+            "Nova številka": "702022",
+            "Ime postajališča": "Študentsko naselje"
+        },
+        {
+            "Stara\r\nštevilka": "343",
+            "Nova številka": "702021",
+            "Ime postajališča": "Študentsko naselje",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "913",
+            "Nova številka": "725022",
+            "Ime postajališča": "Šuica"
+        },
+        {
+            "Stara\r\nštevilka": "914",
+            "Nova številka": "725021",
+            "Ime postajališča": "Šuica",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "220",
+            "Nova številka": "804101",
+            "Ime postajališča": "Tabor",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "221",
+            "Nova številka": "804102",
+            "Ime postajališča": "Tabor"
+        },
+        {
+            "Stara\r\nštevilka": "776",
+            "Nova številka": "804104",
+            "Ime postajališča": "Tabor"
+        },
+        {
+            "Stara\r\nštevilka": "385",
+            "Nova številka": "804151",
+            "Ime postajališča": "Tacen",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "386",
+            "Nova številka": "804152",
+            "Ime postajališča": "Tacen"
+        },
+        {
+            "Stara\r\nštevilka": "383",
+            "Nova številka": "804141",
+            "Ime postajališča": "Tacenski most",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "384",
+            "Nova številka": "804142",
+            "Ime postajališča": "Tacenski most"
+        },
+        {
+            "Stara\r\nštevilka": "770",
+            "Nova številka": "804144",
+            "Ime postajališča": "Tacenski most"
+        },
+        {
+            "Stara\r\nštevilka": "127",
+            "Nova številka": "500011",
+            "Ime postajališča": "Tavčarjeva",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "683",
+            "Nova številka": "603141",
+            "Ime postajališča": "Tbilisijska",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "684",
+            "Nova številka": "603142",
+            "Ime postajališča": "Tbilisijska"
+        },
+        {
+            "Stara\r\nštevilka": "228",
+            "Nova številka": "803071",
+            "Ime postajališča": "Tehnounion",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "229",
+            "Nova številka": "803072",
+            "Ime postajališča": "Tehnounion"
+        },
+        {
+            "Stara\r\nštevilka": "402",
+            "Nova številka": "802061",
+            "Ime postajališča": "Tiki",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "403",
+            "Nova številka": "802062",
+            "Ime postajališča": "Tiki"
+        },
+        {
+            "Stara\r\nštevilka": "690",
+            "Nova številka": "103182",
+            "Ime postajališča": "Titova"
+        },
+        {
+            "Stara\r\nštevilka": "22",
+            "Nova številka": "801011",
+            "Ime postajališča": "Tivoli",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "23",
+            "Nova številka": "801012",
+            "Ime postajališča": "Tivoli"
+        },
+        {
+            "Stara\r\nštevilka": "518",
+            "Nova številka": "701012",
+            "Ime postajališča": "Tivolska"
+        },
+        {
+            "Stara\r\nštevilka": "32",
+            "Nova številka": "602042",
+            "Ime postajališča": "Tobačna"
+        },
+        {
+            "Stara\r\nštevilka": "33",
+            "Nova številka": "602041",
+            "Ime postajališča": "Tobačna",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "405",
+            "Nova številka": "203081",
+            "Ime postajališča": "Tomačevo",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "408",
+            "Nova številka": "203031",
+            "Ime postajališča": "Tomačevska",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "409",
+            "Nova številka": "203032",
+            "Ime postajališča": "Tomačevska"
+        },
+        {
+            "Stara\r\nštevilka": "398",
+            "Nova številka": "103011",
+            "Ime postajališča": "Toplarna",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "399",
+            "Nova številka": "103012",
+            "Ime postajališča": "Toplarna"
+        },
+        {
+            "Stara\r\nštevilka": "410",
+            "Nova številka": "102021",
+            "Ime postajališča": "Topniška",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "411",
+            "Nova številka": "102022",
+            "Ime postajališča": "Topniška"
+        },
+        {
+            "Stara\r\nštevilka": "397",
+            "Nova številka": "103051",
+            "Ime postajališča": "Tovarna Lek",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "75",
+            "Nova številka": "203062",
+            "Ime postajališča": "Tovorni kolodvor",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "76",
+            "Nova številka": "203061",
+            "Ime postajališča": "Tovorni kolodvor",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "8",
+            "Nova številka": "804011",
+            "Ime postajališča": "Trata",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "9",
+            "Nova številka": "804012",
+            "Ime postajališča": "Trata"
+        },
+        {
+            "Stara\r\nštevilka": "597",
+            "Nova številka": "406021",
+            "Ime postajališča": "Trebeljevo",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "598",
+            "Nova številka": "406022",
+            "Ime postajališča": "Trebeljevo"
+        },
+        {
+            "Stara\r\nštevilka": "235",
+            "Nova številka": "602121",
+            "Ime postajališča": "Trnovo",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "893",
+            "Nova številka": "704171",
+            "Ime postajališča": "Tržaška"
+        },
+        {
+            "Stara\r\nštevilka": "894",
+            "Nova številka": "704172",
+            "Ime postajališča": "Tržaška"
+        },
+        {
+            "Stara\r\nštevilka": "190",
+            "Nova številka": "803101",
+            "Ime postajališča": "Tržnica Koseze",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "191",
+            "Nova številka": "803102",
+            "Ime postajališča": "Tržnica Koseze"
+        },
+        {
+            "Stara\r\nštevilka": "71",
+            "Nova številka": "303011",
+            "Ime postajališča": "Tržnica Moste",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "72",
+            "Nova številka": "303012",
+            "Ime postajališča": "Tržnica Moste"
+        },
+        {
+            "Stara\r\nštevilka": "609",
+            "Nova številka": "406081",
+            "Ime postajališča": "Tuji Grm",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "128",
+            "Nova številka": "500012",
+            "Ime postajališča": "Turist"
+        },
+        {
+            "Stara\r\nštevilka": "853",
+            "Nova številka": "826042",
+            "Ime postajališča": "Utik"
+        },
+        {
+            "Stara\r\nštevilka": "854",
+            "Nova številka": "826041",
+            "Ime postajališča": "Utik",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "774",
+            "Nova številka": "804322",
+            "Ime postajališča": "V Dovjež"
+        },
+        {
+            "Stara\r\nštevilka": "775",
+            "Nova številka": "804321",
+            "Ime postajališča": "V Dovjež",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "813",
+            "Nova številka": "815092",
+            "Ime postajališča": "Valburga"
+        },
+        {
+            "Stara\r\nštevilka": "814",
+            "Nova številka": "815091",
+            "Ime postajališča": "Valburga",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "626",
+            "Nova številka": "415032",
+            "Ime postajališča": "Veliki Lipoglav"
+        },
+        {
+            "Stara\r\nštevilka": "627",
+            "Nova številka": "415031",
+            "Ime postajališča": "Veliki Lipoglav",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "236",
+            "Nova številka": "603082",
+            "Ime postajališča": "Veliki štradon"
+        },
+        {
+            "Stara\r\nštevilka": "237",
+            "Nova številka": "603081",
+            "Ime postajališča": "Veliki štradon",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "796",
+            "Nova številka": "835011",
+            "Ime postajališča": "Verje",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "797",
+            "Nova številka": "835012",
+            "Ime postajališča": "Verje"
+        },
+        {
+            "Stara\r\nštevilka": "859",
+            "Nova številka": "826062",
+            "Ime postajališča": "Vesca"
+        },
+        {
+            "Stara\r\nštevilka": "860",
+            "Nova številka": "826061",
+            "Ime postajališča": "Vesca",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "304",
+            "Nova številka": "304101",
+            "Ime postajališča": "Vevče",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "52",
+            "Nova številka": "202011",
+            "Ime postajališča": "Viadukt",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "53",
+            "Nova številka": "202012",
+            "Ime postajališča": "Viadukt"
+        },
+        {
+            "Stara\r\nštevilka": "178",
+            "Nova številka": "703092",
+            "Ime postajališča": "Vič"
+        },
+        {
+            "Stara\r\nštevilka": "179",
+            "Nova številka": "703091",
+            "Ime postajališča": "Vič",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "766",
+            "Nova številka": "815012",
+            "Ime postajališča": "Vikrče"
+        },
+        {
+            "Stara\r\nštevilka": "767",
+            "Nova številka": "815011",
+            "Ime postajališča": "Vikrče",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "334",
+            "Nova številka": "703042",
+            "Ime postajališča": "Viško polje"
+        },
+        {
+            "Stara\r\nštevilka": "335",
+            "Nova številka": "703041",
+            "Ime postajališča": "Viško polje",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "1",
+            "Nova številka": "804051",
+            "Ime postajališča": "Vižmarje",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "845",
+            "Nova številka": "826012",
+            "Ime postajališča": "Vodice"
+        },
+        {
+            "Stara\r\nštevilka": "846",
+            "Nova številka": "826011",
+            "Ime postajališča": "Vodice",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "847",
+            "Nova številka": "826091",
+            "Ime postajališča": "Vodice OŠ",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "848",
+            "Nova številka": "826092",
+            "Ime postajališča": "Vodice OŠ"
+        },
+        {
+            "Stara\r\nštevilka": "725",
+            "Nova številka": "505122",
+            "Ime postajališča": "Vodičar",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "356",
+            "Nova številka": "102071",
+            "Ime postajališča": "Vodovodna",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "357",
+            "Nova številka": "102072",
+            "Ime postajališča": "Vodovodna"
+        },
+        {
+            "Stara\r\nštevilka": "869",
+            "Nova številka": "826082",
+            "Ime postajališča": "Vojsko",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "870",
+            "Nova številka": "826081",
+            "Ime postajališča": "Vojsko"
+        },
+        {
+            "Stara\r\nštevilka": "605",
+            "Nova številka": "406061",
+            "Ime postajališča": "Volavlje",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "606",
+            "Nova številka": "406062",
+            "Ime postajališča": "Volavlje"
+        },
+        {
+            "Stara\r\nštevilka": "327",
+            "Nova številka": "704031",
+            "Ime postajališča": "Vrhovci",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "1000",
+            "Nova številka": "716041",
+            "Ime postajališča": "Vrzdenec",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "393",
+            "Nova številka": "203191",
+            "Ime postajališča": "Yulon",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "394",
+            "Nova številka": "203192",
+            "Ime postajališča": "Yulon"
+        },
+        {
+            "Stara\r\nštevilka": "272",
+            "Nova številka": "204081",
+            "Ime postajališča": "Zadobrova",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "301",
+            "Nova številka": "204082",
+            "Ime postajališča": "Zadobrova"
+        },
+        {
+            "Stara\r\nštevilka": "302",
+            "Nova številka": "204083",
+            "Ime postajališča": "Zadobrova",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "287",
+            "Nova številka": "204181",
+            "Ime postajališča": "Zadružni dom",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "288",
+            "Nova številka": "204182",
+            "Ime postajališča": "Zadružni dom"
+        },
+        {
+            "Stara\r\nštevilka": "320",
+            "Nova številka": "404061",
+            "Ime postajališča": "Zadvor",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "321",
+            "Nova številka": "404062",
+            "Ime postajališča": "Zadvor"
+        },
+        {
+            "Stara\r\nštevilka": "989",
+            "Nova številka": "715132",
+            "Ime postajališča": "Zaklanec/Horjulu"
+        },
+        {
+            "Stara\r\nštevilka": "990",
+            "Nova številka": "715131",
+            "Ime postajališča": "Zaklanec/Horjulu",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "292",
+            "Nova številka": "204211",
+            "Ime postajališča": "Zalog",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "73",
+            "Nova številka": "303021",
+            "Ime postajališča": "Zaloška",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "255",
+            "Nova številka": "303024",
+            "Ime postajališča": "Zaloška"
+        },
+        {
+            "Stara\r\nštevilka": "819",
+            "Nova številka": "825082",
+            "Ime postajališča": "Zapoge"
+        },
+        {
+            "Stara\r\nštevilka": "820",
+            "Nova številka": "825081",
+            "Ime postajališča": "Zapoge",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "821",
+            "Nova številka": "825111",
+            "Ime postajališča": "Zapoge obračališče",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "441",
+            "Nova številka": "104171",
+            "Ime postajališča": "Zasavska",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "442",
+            "Nova številka": "104172",
+            "Ime postajališča": "Zasavska"
+        },
+        {
+            "Stara\r\nštevilka": "809",
+            "Nova številka": "805091",
+            "Ime postajališča": "Zbilje barka",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "810",
+            "Nova številka": "805092",
+            "Ime postajališča": "Zbilje barka"
+        },
+        {
+            "Stara\r\nštevilka": "807",
+            "Nova številka": "805082",
+            "Ime postajališča": "Zbilje jezero"
+        },
+        {
+            "Stara\r\nštevilka": "808",
+            "Nova številka": "805081",
+            "Ime postajališča": "Zbilje jezero",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "805",
+            "Nova številka": "805072",
+            "Ime postajališča": "Zbilje K"
+        },
+        {
+            "Stara\r\nštevilka": "806",
+            "Nova številka": "805071",
+            "Ime postajališča": "Zbilje K",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "803",
+            "Nova številka": "805062",
+            "Ime postajališča": "Zbiljski Gaj"
+        },
+        {
+            "Stara\r\nštevilka": "804",
+            "Nova številka": "805061",
+            "Ime postajališča": "Zbiljski Gaj",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "45",
+            "Nova številka": "202051",
+            "Ime postajališča": "Zelena jama",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "289",
+            "Nova številka": "204191",
+            "Ime postajališča": "Zeleni gaj",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "290",
+            "Nova številka": "204192",
+            "Ime postajališča": "Zeleni gaj"
+        },
+        {
+            "Stara\r\nštevilka": "591",
+            "Nova številka": "405071",
+            "Ime postajališča": "Zg. Besnica",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "592",
+            "Nova številka": "405072",
+            "Ime postajališča": "Zg. Besnica"
+        },
+        {
+            "Stara\r\nštevilka": "389",
+            "Nova številka": "104202",
+            "Ime postajališča": "Zg. Gameljne"
+        },
+        {
+            "Stara\r\nštevilka": "490",
+            "Nova številka": "104201",
+            "Ime postajališča": "Zg. Gameljne",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "760",
+            "Nova številka": "815032",
+            "Ime postajališča": "Zg. Pirniče"
+        },
+        {
+            "Stara\r\nštevilka": "761",
+            "Nova številka": "815031",
+            "Ime postajališča": "Zg. Pirniče",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "759",
+            "Nova številka": "815041",
+            "Ime postajališča": "Zg. Pirniče Mihovec",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "192",
+            "Nova številka": "803091",
+            "Ime postajališča": "Zgornja Šiška",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "193",
+            "Nova številka": "803092",
+            "Ime postajališča": "Zgornja Šiška"
+        },
+        {
+            "Stara\r\nštevilka": "562",
+            "Nova številka": "614052",
+            "Ime postajališča": "Zidarjevec"
+        },
+        {
+            "Stara\r\nštevilka": "563",
+            "Nova številka": "614051",
+            "Ime postajališča": "Zidarjevec",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "242",
+            "Nova številka": "602092",
+            "Ime postajališča": "Ziherlova"
+        },
+        {
+            "Stara\r\nštevilka": "520",
+            "Nova številka": "602093",
+            "Ime postajališča": "Ziherlova",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "494",
+            "Nova številka": "501022",
+            "Ime postajališča": "Zmajski most"
+        },
+        {
+            "Stara\r\nštevilka": "495",
+            "Nova številka": "501021",
+            "Ime postajališča": "Zmajski most",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "48",
+            "Nova številka": "202061",
+            "Ime postajališča": "Žale",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "49",
+            "Nova številka": "202062",
+            "Ime postajališča": "Žale"
+        },
+        {
+            "Stara\r\nštevilka": "997",
+            "Nova številka": "716032",
+            "Ime postajališča": "Žažar"
+        },
+        {
+            "Stara\r\nštevilka": "998",
+            "Nova številka": "716031",
+            "Ime postajališča": "Žažar",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "486",
+            "Nova številka": "201011",
+            "Ime postajališča": "Železna",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "921",
+            "Nova številka": "725062",
+            "Ime postajališča": "Žirovnik"
+        },
+        {
+            "Stara\r\nštevilka": "922",
+            "Nova številka": "725061",
+            "Ime postajališča": "Žirovnik",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "87",
+            "Nova številka": "203151",
+            "Ime postajališča": "Žito",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "88",
+            "Nova številka": "203152",
+            "Ime postajališča": "Žito"
+        },
+        {
+            "Stara\r\nštevilka": "491",
+            "Nova številka": "703131",
+            "Ime postajališča": "Živalski vrt",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "515",
+            "Nova številka": "703121",
+            "Ime postajališča": "Živalski vrt",
+            "Smer vožnje\r\nproti mestu": "→"
+        },
+        {
+            "Stara\r\nštevilka": "516",
+            "Nova številka": "703122",
+            "Ime postajališča": "Živalski vrt"
+        }
+    ]
+}
