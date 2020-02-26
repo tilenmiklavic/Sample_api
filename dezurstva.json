@@ -1,5 +1,5 @@
 ﻿{
-    "Dezurstva": [
+    "Sezurstva": [
         {
             "Date": "7/10/19",
             "Ime": "Tilen"
@@ -82,35 +82,59 @@
         },
         {
             "Date": "24/2/20",
-            "Ime": "Tilen"
+            "Ime": "Vesna"
         },
         {
             "Date": "2/3/20",
-            "Ime": "Nejka"
+            "Ime": "TIlen"
         },
         {
             "Date": "9/3/20",
-            "Ime": "Gašper"
-        },
-        {
-            "Date": "16/3/20",
-            "Ime": "Vesna"
-        },
-        {
-            "Date": "23/3/20",
-            "Ime": "Tilen"
-        },
-        {
-            "Date": "30/3/20",
             "Ime": "Nejka"
         },
         {
-            "Date": "6/4/20",
+            "Date": "16/3/20",
             "Ime": "Gašper"
         },
         {
-            "Date": "13/4/20",
+            "Date": "23/3/20",
             "Ime": "Vesna"
+        },
+        {
+            "Date": "30/3/20",
+            "Ime": "TIlen"
+        },
+        {
+            "Date": "6/4/20",
+            "Ime": "Nejka"
+        },
+        {
+            "Date": "13/4/20",
+            "Ime": "Gašper"
+        },
+        {
+            "Date": "20/4/20",
+            "Ime": "Vesna"
+        },
+        {
+            "Date": "27/4/20",
+            "Ime": "TIlen"
+        },
+        {
+            "Date": "4/5/20",
+            "Ime": "Nejka"
+        },
+        {
+            "Date": "11/5/20",
+            "Ime": "Gašper"
+        },
+        {
+            "Date": "18/5/20",
+            "Ime": "Vesna"
+        },
+        {
+            "Date": "25/5/20",
+            "Ime": "TIlen"
         }
     ]
 }
